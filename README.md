@@ -34,5 +34,5 @@ Combining all three gives a more reliable assessment than any single modality al
 
 ## Team
 
-Charan M Reddy, Charan Tej A, Adarsha S R, Suhan C K
+Charan M Reddy, Charan Tej A, Adarsha S R, Suhan C K \ 
 Guide: Prof. Neha Sharma
