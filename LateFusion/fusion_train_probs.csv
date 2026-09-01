@@ -1,0 +1,1197 @@
+split,rgb_path,rgb_label,thermal_row_idx,thermal_label,thermal_used_with_replacement,plantar_row_idx,plantar_label,plantar_used_with_replacement,fused_label,p_rgb,p_thermal_risk,p_plantar_risk
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/149.jpg,1,7518,DM,False,2344,normal,False,1,0.6198899745941162,0.9968847352024922,0.05097714
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/412.jpg,1,7313,DM,False,3579,over-arch,False,1,0.7398815155029297,0.9107712135465499,0.8012538
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/247.jpg,1,1672,Control,False,1636,flat foot,False,1,0.5593115091323853,0.0069200487654958575,0.98941886
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/488.jpg,1,7191,DM,False,2908,normal,False,1,0.6799692511558533,0.8438925625058727,0.10946804
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/240.jpg,1,6053,DM,False,1258,flat foot,False,1,0.5717194676399231,1.0,0.9999059
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/116.jpg,1,2189,Control,False,720,flat foot,False,1,0.5805429816246033,0.014372822240223057,0.97890407
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/158.jpg,1,4832,DM,False,186,flat foot,False,1,0.49962761998176575,0.8486514353364724,0.99955386
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/81.jpg,1,4379,DM,False,3246,over-arch,False,1,0.6294079422950745,0.9979291659615597,0.8899061
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/343.jpg,1,5158,DM,False,2663,normal,False,1,0.7003483176231384,0.9846943425290842,0.18513754
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/104.jpg,1,5121,DM,False,4254,over-arch,False,1,0.4690162241458893,0.9979291659615597,0.9948007
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/245.jpg,1,491,Control,False,3155,normal,False,1,0.6540743112564087,0.003993764624532209,0.073402494
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/131.jpg,1,6365,DM,False,907,flat foot,False,1,0.7059255242347717,0.6062382150841087,0.9315659
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/161.jpg,1,7261,DM,False,2779,normal,False,1,0.5157297849655151,0.9202164902080556,0.08468476
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/108.jpg,1,4395,DM,False,405,flat foot,False,1,0.5892610549926758,1.0,0.99927855
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/372.jpg,1,6781,DM,False,3223,over-arch,False,1,0.4223630428314209,0.9968847352024922,0.98296016
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/100.jpg,1,5509,DM,False,2018,normal,False,1,0.656688928604126,0.9354667463327112,0.028408568
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/407.jpg,1,5173,DM,False,4012,over-arch,False,1,0.6459982395172119,0.9511413960035023,0.999156
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/77.jpg,1,4647,DM,False,4073,over-arch,False,1,0.713681161403656,0.8748600990467127,0.9994819
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/236.jpg,1,6619,DM,False,4314,over-arch,False,1,0.6566391587257385,0.930347542813209,0.99934953
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/319.jpg,1,7676,DM,False,4594,over-arch,False,1,0.5939087867736816,1.0,0.9997511
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/8.jpg,1,5340,DM,False,1025,flat foot,False,1,0.672461986541748,0.9453525677750544,0.9998634
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/303.jpg,1,7500,DM,False,3488,over-arch,False,1,0.7459304928779602,0.9686412951494225,0.5723513
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/217.jpg,1,5264,DM,False,554,flat foot,False,1,0.681770384311676,0.6725499382037362,0.999904
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/291.jpg,1,4403,DM,False,2616,normal,False,1,0.5292766690254211,0.9984491181400915,0.044880785
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/301.jpg,1,437,Control,False,3262,over-arch,False,1,0.7538154721260071,0.15176503917296233,0.99904794
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/243.jpg,1,7902,DM,False,3665,over-arch,False,1,0.7015080451965332,0.9682411117208164,0.99666506
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/97.jpg,1,6371,DM,False,1871,normal,False,1,0.5756149291992188,0.9813084112149533,0.02834899
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/361.jpg,1,6172,DM,False,802,flat foot,False,1,0.5689210891723633,0.6377773387740916,0.999861
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/146.jpg,1,5312,DM,False,389,flat foot,False,1,0.6338528990745544,0.9897307083154446,0.99950653
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/509.jpg,1,7650,DM,False,3621,over-arch,False,1,0.5346140265464783,0.9714133127677295,0.99919343
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/349.jpg,1,5839,DM,False,3832,over-arch,False,1,0.6932240128517151,0.9857395192722446,0.9997266
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/200.jpg,1,6813,DM,False,2790,normal,False,1,0.5545347332954407,0.971566384498094,0.07310064
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/493.jpg,1,6807,DM,False,1204,flat foot,False,1,0.6438062191009521,0.934989503889662,0.9995167
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/66.jpg,1,5937,DM,False,3517,over-arch,False,1,0.5770276784896851,0.9120276497053027,0.9992134
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/382.jpg,1,7330,DM,False,3708,over-arch,False,1,0.5890389680862427,0.955505195940152,0.94406444
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/279.jpg,1,4349,DM,False,4277,over-arch,False,1,0.6276267170906067,0.8314608232298054,0.95599115
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/266.jpg,1,7132,DM,False,60,flat foot,False,1,0.6643451452255249,0.9828949209913598,0.99987036
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/437.jpg,1,4533,DM,False,1888,normal,False,1,0.6599903702735901,0.9922320896227669,0.012568919
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/242.jpg,1,6034,DM,False,1365,flat foot,False,1,0.6198031306266785,0.9948217354131136,0.99978346
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/287.jpg,1,5328,DM,False,500,flat foot,False,1,0.6410188674926758,0.9875389408099688,0.9619684
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/37.jpg,1,4584,DM,False,3396,over-arch,False,1,0.7183172106742859,0.9733600400476419,0.8476582
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/4.jpg,1,7363,DM,False,332,flat foot,False,1,0.557034969329834,0.9697493944028238,0.99983644
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/424.jpg,1,749,Control,False,1518,flat foot,False,1,0.6161218881607056,0.04768683066544636,0.9992483
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/74.jpg,1,7879,DM,False,4365,over-arch,False,1,0.6803793907165527,0.8723175453487069,0.80502486
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/91.jpg,1,7844,DM,False,1160,flat foot,False,1,0.6065006256103516,0.8888563854434401,0.9222903
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/86.jpg,1,5554,DM,False,1498,flat foot,False,1,0.626595675945282,0.9880708939714934,0.8538183
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/142.jpg,1,4791,DM,False,2620,normal,False,1,0.5968824625015259,0.751938268576711,0.05258089
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/496.jpg,1,1137,Control,False,1183,flat foot,False,1,0.5608397722244263,0.0809074687916855,0.86441475
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/59.jpg,1,7683,DM,False,302,flat foot,False,1,0.5750036239624023,0.9038763714510875,0.99935496
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/208.jpg,1,3375,Control,False,221,flat foot,False,1,0.5623573660850525,0.012133601159870725,0.9990225
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/387.jpg,1,6031,DM,False,3474,over-arch,False,1,0.534663736820221,0.6076008048755525,0.99931604
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/5.jpg,1,5700,DM,False,1343,flat foot,False,1,0.6587006449699402,0.9948139011640519,0.9997336
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/376.jpg,1,7519,DM,False,209,flat foot,False,1,0.6861274838447571,0.9922185885450759,0.9997824
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/502.jpg,1,4697,DM,False,1521,flat foot,False,1,0.6929980516433716,0.9615586641886458,0.87005347
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/500.jpg,1,8118,DM,False,2214,normal,False,1,0.5863993167877197,1.0,0.07941377
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/180.jpg,1,8239,DM,False,3745,over-arch,False,1,0.6450501084327698,0.970122217458024,0.93216884
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/293.jpg,1,6933,DM,False,3548,over-arch,False,1,0.6354161500930786,0.9893328971855897,0.995875
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/513.jpg,1,675,Control,False,1024,flat foot,False,1,0.6391082406044006,0.1665821406453299,0.9998022
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/263.jpg,1,3606,Control,False,3212,over-arch,False,1,0.6928452849388123,0.05263136453763697,0.9974983
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/423.jpg,1,8473,DM,False,1232,flat foot,False,1,0.5754756331443787,1.0,0.9996817
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/92.jpg,1,7395,DM,False,3178,over-arch,False,1,0.5701107382774353,0.8500537360214497,0.988004
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/335.jpg,1,4137,Control,False,2979,normal,False,1,0.6811596751213074,0.03780944664356002,0.2081513
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/214.jpg,1,4334,DM,False,2455,normal,False,1,0.7504808902740479,0.9601705138293708,0.117579564
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/393.jpg,1,3590,Control,False,4384,over-arch,False,1,0.5470360517501831,0.2872334707029727,0.99880785
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/426.jpg,1,6620,DM,False,47,flat foot,False,1,0.733283519744873,0.9877591030921744,0.9828048
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/329.jpg,1,5925,DM,False,1257,flat foot,False,1,0.690647542476654,1.0,0.99975
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/26.jpg,1,182,Control,False,1465,flat foot,False,1,0.596345067024231,0.02113978032060471,0.9997637
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/395.jpg,1,7315,DM,False,4031,over-arch,False,1,0.6354161500930786,0.9628323865673517,0.99944645
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/379.jpg,1,4524,DM,False,1377,flat foot,False,1,0.6643115878105164,0.9885893460553268,0.9995113
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/235.jpg,1,5206,DM,False,4410,over-arch,False,1,0.7432957887649536,0.5695215164287157,0.99958193
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/87.jpg,1,6770,DM,False,1344,flat foot,False,1,0.6044217944145203,0.9808526702992526,0.7865524
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/32.jpg,1,4778,DM,False,1758,flat foot,False,1,0.4613317549228668,1.0,0.9991674
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/440.jpg,1,4427,DM,False,3326,over-arch,False,1,0.652875542640686,1.0,0.8618175
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/27.jpg,1,7416,DM,False,2700,normal,False,1,0.7451655268669128,0.6922676207805326,0.075577766
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/34.jpg,1,6438,DM,False,2153,normal,False,1,0.69800865650177,0.9761836582468078,0.03301959
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/85.jpg,1,333,Control,False,957,flat foot,False,1,0.5163834095001221,0.015361502793107001,0.99983376
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/254.jpg,1,6997,DM,False,117,flat foot,False,1,0.7308617234230042,0.9937694704049844,0.99934566
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/284.jpg,1,1219,Control,False,3871,over-arch,False,1,0.6163132190704346,0.04993611747154182,0.9485739
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/406.jpg,1,7237,DM,False,4089,over-arch,False,1,0.700215220451355,0.9847170106044624,0.9369213
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/269.jpg,1,7078,DM,False,3258,over-arch,False,1,0.7428156137466431,0.8547950690581206,0.9377635
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/421.jpg,1,6814,DM,False,1345,flat foot,False,1,0.6649925112724304,0.4381179942473404,0.99985343
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/388.jpg,1,6058,DM,False,1644,flat foot,False,1,0.6225844025611877,0.985480107754521,0.9211195
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/228.jpg,1,7182,DM,False,4551,over-arch,False,1,0.6495617628097534,0.9945533605032434,0.9985047
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/135.jpg,1,752,Control,False,3714,over-arch,False,1,0.6050248742103577,0.029214396316706377,0.99908656
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/17.jpg,1,528,Control,False,1799,flat foot,False,1,0.6531012654304504,0.032023985656860314,0.9996358
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/501.jpg,1,2499,Control,False,496,flat foot,False,1,0.609050452709198,0.0,0.99968445
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/422.jpg,1,6901,DM,False,185,flat foot,False,1,0.5845991969108582,0.5490109397818175,0.9998525
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/164.jpg,1,2669,Control,False,2322,normal,False,1,0.6401844024658203,0.007910670510016912,0.06367722
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/21.jpg,1,6775,DM,False,3791,over-arch,False,1,0.6515016555786133,1.0,0.2001261
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/211.jpg,1,5823,DM,False,614,flat foot,False,1,0.6463311314582825,0.9792420580505549,0.9998449
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/250.jpg,1,7397,DM,False,4285,over-arch,False,1,0.516393780708313,0.914510447386212,0.95375526
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/456.jpg,1,6737,DM,False,38,flat foot,False,1,0.6613693237304688,0.9770578906199353,0.99975616
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/144.jpg,1,1039,Control,False,611,flat foot,False,1,0.5364267230033875,0.014754512221744582,0.85939467
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/141.jpg,1,4730,DM,False,798,flat foot,False,1,0.6715101003646851,0.9968847352024922,0.99940634
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/506.jpg,1,7698,DM,False,273,flat foot,False,1,0.6769508123397827,0.9868202187440999,0.99721533
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/337.jpg,1,6228,DM,False,3923,over-arch,False,1,0.6839918494224548,0.9994845286955102,0.9165562
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/492.jpg,1,5425,DM,False,3170,over-arch,False,1,0.5950886607170105,0.9228265769804538,0.9476738
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/510.jpg,1,6726,DM,False,466,flat foot,False,1,0.60524582862854,0.9635871214967917,0.4728492
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/484.jpg,1,6893,DM,False,4341,over-arch,False,1,0.6109303832054138,0.9614566818959789,0.9752166
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/67.jpg,1,6270,DM,False,3702,over-arch,False,1,0.6563630104064941,0.9937694704049844,0.9822269
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/57.jpg,1,7836,DM,False,2223,normal,False,1,0.6159115433692932,0.948740364591575,0.0361055
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/96.jpg,1,5079,DM,False,3330,over-arch,False,1,0.6545816659927368,0.9255680412736071,0.7926495
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/327.jpg,1,5321,DM,False,3575,over-arch,False,1,0.6182485818862915,0.9220103627769882,0.99935687
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/78.jpg,1,6336,DM,False,4372,over-arch,False,1,0.6288760900497437,0.9884652934290339,0.9431233
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/18.jpg,1,6955,DM,False,3667,over-arch,False,1,0.6410188674926758,0.9958523054264173,0.9986395
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/89.jpg,1,5889,DM,False,3761,over-arch,False,1,0.6725637316703796,1.0,0.9581612
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/477.jpg,1,6951,DM,False,249,flat foot,False,1,0.6024294495582581,0.9645205983873809,0.99720305
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/216.jpg,1,8018,DM,False,65,flat foot,False,1,0.5721144676208496,1.0,0.9996085
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/360.jpg,1,5792,DM,False,3112,normal,False,1,0.6465830206871033,0.9994845286955102,0.048200082
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/351.jpg,1,5983,DM,False,2357,normal,False,1,0.6910794377326965,0.8772547809762368,0.03170873
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/306.jpg,1,5557,DM,False,4111,over-arch,False,1,0.5850685238838196,0.9968847352024922,0.48737514
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/276.jpg,1,7525,DM,False,1115,flat foot,False,1,0.6247656345367432,0.8456667806968889,0.9507996
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/190.jpg,1,5194,DM,False,1674,flat foot,False,1,0.7661486864089966,1.0,0.99992967
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/60.jpg,1,1296,Control,False,4258,over-arch,False,1,0.5759332776069641,0.05191611287622435,0.99835956
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/332.jpg,1,8075,DM,False,3411,over-arch,False,1,0.7247457504272461,1.0,0.99926424
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/23.jpg,1,5441,DM,False,928,flat foot,False,1,0.4977876842021942,0.24406308850633943,0.99959344
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/318.jpg,1,4329,DM,False,3754,over-arch,False,1,0.6492478251457214,0.6548450985549986,0.99043864
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/340.jpg,1,5088,DM,False,155,flat foot,False,1,0.5656222701072693,0.9916986363665441,0.99873495
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/457.jpg,1,6083,DM,False,1628,flat foot,False,1,0.6012512445449829,0.9906542056074766,0.9998778
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/55.jpg,1,7213,DM,False,2386,normal,False,1,0.5292766690254211,0.9270156564451508,0.097673215
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/270.jpg,1,5622,DM,False,3528,over-arch,False,1,0.6570898294448853,0.7755751108081236,0.9997914
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/225.jpg,1,1815,Control,False,201,flat foot,False,1,0.5297369956970215,0.1293028395943851,0.98179835
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/328.jpg,1,1081,Control,False,4148,over-arch,False,1,0.7497826218605042,0.06096736546955749,0.8733909
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/43.jpg,1,5643,DM,False,440,flat foot,False,1,0.6730003952980042,0.9968847352024922,0.99704564
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/186.jpg,1,6805,DM,False,4526,over-arch,False,1,0.7479880452156067,0.9404227679086442,0.48660246
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/338.jpg,1,7810,DM,False,217,flat foot,False,1,0.6885679364204407,0.9968847352024922,0.7468008
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/446.jpg,1,7846,DM,False,3992,over-arch,False,1,0.6326028108596802,0.9971613762054058,0.999229
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/239.jpg,1,6734,DM,False,4316,over-arch,False,1,0.5786934494972229,0.9832168108726449,0.9977487
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/114.jpg,1,1058,Control,False,4116,over-arch,False,1,0.6722729206085205,0.04487198722549181,0.9413645
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/313.jpg,1,6024,DM,False,4335,over-arch,False,1,0.5994800329208374,0.9889502154761045,0.90219337
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/467.jpg,1,7504,DM,False,1309,flat foot,False,1,0.6624362468719482,0.968372274424303,0.99984604
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/71.jpg,1,555,Control,False,4174,over-arch,False,1,0.5920667052268982,0.006636886895122296,0.9644043
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/106.jpg,1,8066,DM,False,2423,normal,False,1,0.7145576477050781,0.9896472778920852,0.072680876
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/274.jpg,1,6926,DM,False,270,flat foot,False,1,0.7000148892402649,0.997986604743596,0.999482
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/182.jpg,1,5476,DM,False,549,flat foot,False,1,0.7098618149757385,1.0,0.9576137
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/434.jpg,1,6055,DM,False,2019,normal,False,1,0.7504794001579285,0.8276173355695152,0.011934357
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/289.jpg,1,7927,DM,False,1639,flat foot,False,1,0.5470361113548279,1.0,0.9990732
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/115.jpg,1,5444,DM,False,1104,flat foot,False,1,0.7134952545166016,0.9844867158106313,0.99968714
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/62.jpg,1,3027,Control,False,1726,flat foot,False,1,0.5517180562019348,0.15347237737717528,0.99950033
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/230.jpg,1,2260,Control,False,3654,over-arch,False,1,0.7449108958244324,0.03922581362967667,0.99754715
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/494.jpg,1,6936,DM,False,4065,over-arch,False,1,0.5896869897842407,0.9955057282180096,0.99947876
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/268.jpg,1,5041,DM,False,3163,over-arch,False,1,0.6730920672416687,0.5657376772287357,0.9991387
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/249.jpg,1,5426,DM,False,2193,normal,False,1,0.5272056460380554,0.9443633636796709,0.0048748953
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/277.jpg,1,6265,DM,False,4582,over-arch,False,1,0.6927843689918518,0.9296082153312247,0.97736126
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/398.jpg,1,2827,Control,False,3078,normal,False,1,0.5972786545753479,0.10409096474701741,0.07292053
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/233.jpg,1,4583,DM,False,894,flat foot,False,1,0.7735016345977783,1.0,0.9309959
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/414.jpg,1,2665,Control,False,488,flat foot,False,1,0.725609302520752,0.0,0.9985845
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/191.jpg,1,7384,DM,False,4338,over-arch,False,1,0.7166963219642639,0.9937694704049844,0.9990821
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/176.jpg,1,5918,DM,False,3062,normal,False,1,0.6294565796852112,0.9586419761030879,0.09429312
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/111.jpg,1,4607,DM,False,4517,over-arch,False,1,0.5869811773300171,0.827573541005098,0.9989187
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/179.jpg,1,3909,Control,False,1885,normal,False,1,0.6178486943244934,0.032937277720353916,0.041165758
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/73.jpg,1,3792,Control,False,2874,normal,False,1,0.636266827583313,0.007242414093897404,0.054184314
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/126.jpg,1,6831,DM,False,2174,normal,False,1,0.696498453617096,0.9505139489127392,0.3325332
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/33.jpg,1,1526,Control,False,4326,over-arch,False,1,0.7691826224327087,0.027655015065711476,0.9825761
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/339.jpg,1,8194,DM,False,597,flat foot,False,1,0.7146461606025696,1.0,0.96017295
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/167.jpg,1,5521,DM,False,4448,over-arch,False,1,0.6732839941978455,0.8545626664300994,0.9977957
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/40.jpg,1,6420,DM,False,4188,over-arch,False,1,0.6216952800750732,0.9875509417929613,0.97916174
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/443.jpg,1,4965,DM,False,1672,flat foot,False,1,0.787575900554657,0.9800349683524628,0.9994447
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/209.jpg,1,2344,Control,False,1718,flat foot,False,1,0.6975647211074829,0.03128868525330359,0.89823294
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/232.jpg,1,7468,DM,False,1012,flat foot,False,1,0.5922790169715881,0.9904123945265566,0.49339852
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/206.jpg,1,2361,Control,False,2835,normal,False,1,0.6718460321426392,0.0060057558395970705,0.096839346
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/262.jpg,1,5278,DM,False,641,flat foot,False,1,0.6136714220046997,0.7768128741439749,0.9987882
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/136.jpg,1,8094,DM,False,198,flat foot,False,1,0.5764956474304199,0.8732990333765028,0.99925584
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/6.jpg,1,8068,DM,False,20,flat foot,False,1,0.6887872815132141,0.9505139489127392,0.99985826
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/311.jpg,1,8037,DM,False,1750,flat foot,False,1,0.5972786545753479,0.8318137952829198,0.9985556
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/1.jpg,1,7733,DM,False,4185,over-arch,False,1,0.6591557860374451,1.0,0.9985994
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/392.jpg,1,6656,DM,False,1084,flat foot,False,1,0.6643451452255249,1.0,0.97409767
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/381.jpg,1,7662,DM,False,535,flat foot,False,1,0.6294565796852112,0.9222028994364284,0.9997465
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/153.jpg,1,3148,Control,False,1272,flat foot,False,1,0.6078276634216309,0.05055347768064115,0.9996184
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/162.jpg,1,7523,DM,False,1095,flat foot,False,1,0.5811558365821838,0.9589388777557987,0.99988884
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/121.jpg,1,6743,DM,False,3097,normal,False,1,0.6518439054489136,0.9953338533425838,0.057920165
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/20.jpg,1,5722,DM,False,3197,over-arch,False,1,0.5470361113548279,0.5949382009898024,0.9472097
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/397.jpg,1,4451,DM,False,3322,over-arch,False,1,0.6819343566894531,0.9861342091534034,0.98720515
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/375.jpg,1,4263,Control,False,3982,over-arch,False,1,0.5639511942863464,0.03456683226407656,0.9857025
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/334.jpg,1,7130,DM,False,4450,over-arch,False,1,0.6119483709335327,0.8104473762604641,0.9709797
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/109.jpg,1,4990,DM,False,364,flat foot,False,1,0.6370058655738831,0.9431089542686812,0.99979204
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/154.jpg,1,7342,DM,False,457,flat foot,False,1,0.5566146969795227,0.9533836021987269,0.9997707
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/128.jpg,1,7025,DM,False,2927,normal,False,1,0.6718525886535645,0.9937694704049844,0.05364234
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/119.jpg,1,5806,DM,False,1282,flat foot,False,1,0.6638616919517517,0.9958523054264173,0.99911547
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/462.jpg,1,5585,DM,False,1889,normal,False,1,0.7270606160163879,0.9880708939714934,0.11050804
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/368.jpg,1,6262,DM,False,557,flat foot,False,1,0.6738666892051697,0.9342128571491422,0.951503
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/394.jpg,1,5153,DM,False,2075,normal,False,1,0.641842782497406,0.863176491487802,0.02032946
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/47.jpg,1,6196,DM,False,236,flat foot,False,1,0.6571886539459229,0.9972094871261318,0.999837
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/465.jpg,1,3601,Control,False,383,flat foot,False,1,0.6844422817230225,0.032438887595008514,0.9997954
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/479.jpg,1,5594,DM,False,3259,over-arch,False,1,0.6856828927993774,0.9937829714826751,0.99900293
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/491.jpg,1,7065,DM,False,1021,flat foot,False,1,0.6507564783096313,1.0,0.6396562
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/203.jpg,1,6669,DM,False,3944,over-arch,False,1,0.5951641798019409,0.8032142393073691,0.9185468
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/103.jpg,1,7503,DM,False,1582,flat foot,False,1,0.6293416619300842,0.9981938059814807,0.999866
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/227.jpg,1,7344,DM,False,4328,over-arch,False,1,0.6250259876251221,0.8829662546407753,0.9995848
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/386.jpg,1,6423,DM,False,3865,over-arch,False,1,0.6540743112564087,0.9668654333154919,0.9402863
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/19.jpg,1,7449,DM,False,2562,normal,False,1,0.7212331891059875,0.9968847352024922,0.018123064
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/102.jpg,1,6340,DM,False,856,flat foot,False,1,0.6606647968292236,0.9862380151641148,0.5691238
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/285.jpg,1,1658,Control,False,2377,normal,False,1,0.6239347457885742,0.0,0.0906019
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/75.jpg,1,6639,DM,False,212,flat foot,False,1,0.6354161500930786,0.9716307209704322,0.9998844
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/367.jpg,1,7624,DM,False,4418,over-arch,False,1,0.6603676676750183,0.9397661874563065,0.9972415
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/389.jpg,1,8084,DM,False,3936,over-arch,False,1,0.5593115091323853,0.9962659913827628,0.86352885
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/35.jpg,1,5492,DM,False,716,flat foot,False,1,0.7339311242103577,0.960615428156495,0.9601864
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/298.jpg,1,4138,Control,False,1617,flat foot,False,1,0.5811558365821838,0.005047434769235696,0.9997799
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/157.jpg,1,6006,DM,False,1274,flat foot,False,1,0.49383339285850525,0.6301324373396011,0.99973136
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/435.jpg,1,6604,DM,False,3668,over-arch,False,1,0.575079619884491,0.7892419203610298,0.9994799
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/238.jpg,1,8446,DM,False,3468,over-arch,False,1,0.5391563773155212,0.9495478632304795,0.95181644
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/265.jpg,1,6705,DM,False,1601,flat foot,False,1,0.6687496900558472,0.972852966034168,0.9995951
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/175.jpg,1,6107,DM,False,3532,over-arch,False,1,0.6277522444725037,0.9484671176132489,0.9870577
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/369.jpg,1,4999,DM,False,3390,over-arch,False,1,0.6026948094367981,0.9872135310491595,0.9078869
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/486.jpg,1,8107,DM,False,1458,flat foot,False,1,0.6360851526260376,0.9958523054264173,0.9997237
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/76.jpg,1,5914,DM,False,3938,over-arch,False,1,0.7197109460830688,0.992218588545076,0.95809966
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/312.jpg,1,6381,DM,False,2338,normal,False,1,0.6240817308425903,0.9968847352024922,0.024379613
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/90.jpg,1,5342,DM,False,4088,over-arch,False,1,0.5988263487815857,0.9854725876455704,0.99963754
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/483.jpg,1,5807,DM,False,1212,flat foot,False,1,0.6144594550132751,0.9975121197703689,0.9997336
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/399.jpg,1,6208,DM,False,3559,over-arch,False,1,0.6679013967514038,1.0,0.9993849
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/244.jpg,1,4345,DM,False,1448,flat foot,False,1,0.5775700807571411,0.8865013660723239,0.99753904
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/12.jpg,1,4819,DM,False,2490,normal,False,1,0.7089372873306274,0.9992262357575556,0.4322446
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/299.jpg,1,8183,DM,False,1691,flat foot,False,1,0.7084311246871948,0.9627240314325278,0.99914384
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/475.jpg,1,7355,DM,False,1481,flat foot,False,1,0.8099312782287598,1.0,0.99772394
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/495.jpg,1,5109,DM,False,4504,over-arch,False,1,0.6867351531982422,1.0,0.8928979
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/458.jpg,1,7197,DM,False,192,flat foot,False,1,0.6030327081680298,0.6759714542072192,0.9698464
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/317.jpg,1,8284,DM,False,3494,over-arch,False,1,0.5622883439064026,0.9663444738344731,0.9619103
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/122.jpg,1,8131,DM,False,4545,over-arch,False,1,0.7260961532592773,0.9930528113568446,0.99879503
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/358.jpg,1,7640,DM,False,3189,over-arch,False,1,0.6389938592910767,0.9307139457472225,0.88891983
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/79.jpg,1,7016,DM,False,2846,normal,False,1,0.5211337208747864,1.0,0.074227676
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/123.jpg,1,7301,DM,False,707,flat foot,False,1,0.5413916707038879,0.9813840463009289,0.9992825
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/2.jpg,1,8452,DM,False,3400,over-arch,False,1,0.5400552153587341,0.9694158931642728,0.9931068
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/275.jpg,1,6792,DM,False,1578,flat foot,False,1,0.534663736820221,0.9972094871261318,0.9080131
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/215.jpg,1,4715,DM,False,1199,flat foot,False,1,0.7395239472389221,0.8398032638376528,0.9996104
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/124.jpg,1,1524,Control,False,1165,flat foot,False,1,0.7336860299110413,0.07357750434277917,0.9993501
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/226.jpg,1,6323,DM,False,774,flat foot,False,1,0.6856750249862671,0.9923480777547964,0.9996073
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/441.jpg,1,4974,DM,False,1923,normal,False,1,0.6889132857322693,0.9142701764005136,0.11242802
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/283.jpg,1,6147,DM,False,2406,normal,False,1,0.622974693775177,0.8859959455868361,0.046728157
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/198.jpg,1,7941,DM,False,4059,over-arch,False,1,0.6296538710594177,0.982062703736156,0.99908096
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/202.jpg,1,7428,DM,False,44,flat foot,False,1,0.5890389680862427,0.9975121197703689,0.9971506
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/10.jpg,1,669,Control,False,4112,over-arch,False,1,0.6329438090324402,0.019951084815635272,0.9371099
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/353.jpg,1,4495,DM,False,4527,over-arch,False,1,0.6140407919883728,0.9989675702239251,0.9744886
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/297.jpg,1,6044,DM,False,1090,flat foot,False,1,0.6226592063903809,0.8799746280529771,0.9336877
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/336.jpg,1,5457,DM,False,3166,over-arch,False,1,0.5726626515388489,0.9865838309889103,0.9988918
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/281.jpg,1,7934,DM,False,19,flat foot,False,1,0.641842782497406,0.9282718668046722,0.89778143
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/489.jpg,1,7305,DM,False,3406,over-arch,False,1,0.7168936729431152,0.8544103681517593,0.99590105
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/333.jpg,1,2869,Control,False,2817,normal,False,1,0.6122351288795471,0.2838326779323473,0.030160755
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/365.jpg,1,7203,DM,False,800,flat foot,False,1,0.708945631980896,0.9979291659615597,0.99976975
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/415.jpg,1,7049,DM,False,3589,over-arch,False,1,0.5007567405700684,0.9067279489854089,0.99964887
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/391.jpg,1,7837,DM,False,3391,over-arch,False,1,0.6247656345367432,0.8074969717393495,0.91346526
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/152.jpg,1,7805,DM,False,1039,flat foot,False,1,0.6550804972648621,0.9070764683142694,0.9970442
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/99.jpg,1,6545,DM,False,664,flat foot,False,1,0.5593886375427246,1.0,0.9998672
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/280.jpg,1,6783,DM,False,3193,over-arch,False,1,0.5700216293334961,0.9953338533425838,0.87520075
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/455.jpg,1,4361,DM,False,1214,flat foot,False,1,0.7199090719223022,0.8871311289771555,0.85560906
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/84.jpg,1,4557,DM,False,1388,flat foot,False,1,0.6056699752807617,0.9968847352024922,0.99986565
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/419.jpg,1,7740,DM,False,4300,over-arch,False,1,0.612170398235321,0.9937694704049844,0.99752116
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/402.jpg,1,7939,DM,False,3615,over-arch,False,1,0.6451018452644348,0.8359450643304531,0.9228586
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/410.jpg,1,7102,DM,False,4057,over-arch,False,1,0.6370221376419067,0.9401624104580398,0.9642086
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/314.jpg,1,5631,DM,False,1853,normal,False,1,0.6674377918243408,0.9309981559520953,0.10427973
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/165.jpg,1,5896,DM,False,4061,over-arch,False,1,0.6887511610984802,0.9945600891001393,0.93006194
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/174.jpg,1,7583,DM,False,3910,over-arch,False,1,0.6628993153572083,0.7921343961531938,0.9878828
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/183.jpg,1,6589,DM,False,2812,normal,False,1,0.6325768828392029,0.9921362003987864,0.05671078
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/156.jpg,1,5384,DM,False,2253,normal,False,1,0.5496690273284912,0.9859880589500605,0.013232375
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/320.jpg,1,4386,DM,False,341,flat foot,False,1,0.6290454268455505,0.8700889703854169,0.9987648
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/326.jpg,1,5468,DM,False,559,flat foot,False,1,0.668377161026001,0.9814922870733713,0.97425985
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/512.jpg,1,6419,DM,False,2735,normal,False,1,0.6119527816772461,1.0,0.022994662
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/138.jpg,1,5310,DM,False,747,flat foot,False,1,0.612351655960083,0.21571815711138773,0.9995942
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/413.jpg,1,4792,DM,False,128,flat foot,False,1,0.6218783855438232,0.7160870755729406,0.9998362
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/278.jpg,1,7433,DM,False,756,flat foot,False,1,0.584764301776886,0.9568674682882764,0.87550217
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/28.jpg,1,4513,DM,False,2945,normal,False,1,0.6898033022880554,0.8541663744339802,0.022062209
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/344.jpg,1,5000,DM,False,3961,over-arch,False,1,0.6402156352996826,0.9919632763864651,0.35508528
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/130.jpg,1,8514,DM,False,2946,normal,False,1,0.6226592063903809,0.9821732861713204,0.027319346
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/213.jpg,1,6869,DM,False,3801,over-arch,False,1,0.6881582140922546,0.6700348172617777,0.81037724
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/476.jpg,1,5364,DM,False,2417,normal,False,1,0.701073169708252,1.0,0.08631101
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/385.jpg,1,5945,DM,False,2042,normal,False,1,0.6531995534896851,0.9794766538178475,0.038905367
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/405.jpg,1,7093,DM,False,3758,over-arch,False,1,0.6838306188583374,0.9800214672747719,0.9393871
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/139.jpg,1,7864,DM,False,3016,normal,False,1,0.6483295559883118,0.9968847352024922,0.028611843
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/453.jpg,1,5633,DM,False,1056,flat foot,False,1,0.6805869936943054,0.9950263603688032,0.999835
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/246.jpg,1,6795,DM,False,3684,over-arch,False,1,0.7099880576133728,0.9361734718942877,0.9995627
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/125.jpg,1,5794,DM,False,3644,over-arch,False,1,0.6632966995239258,0.9655503880502129,0.8868132
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/127.jpg,1,6237,DM,False,4518,over-arch,False,1,0.6244414448738098,0.6437842761526029,0.7340196
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/196.jpg,1,8297,DM,False,2476,normal,False,1,0.6689438223838806,0.9952952444380042,0.07510991
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/308.jpg,1,7454,DM,False,4236,over-arch,False,1,0.6044354438781738,0.992218588545076,0.98033744
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/93.jpg,1,2420,Control,False,1380,flat foot,False,1,0.6468057632446289,0.0549563098764895,0.9997264
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/295.jpg,1,5809,DM,False,1686,flat foot,False,1,0.5413916707038879,0.9896457777973866,0.99981374
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/322.jpg,1,5022,DM,False,4431,over-arch,False,1,0.699439525604248,0.9942924423708043,0.99963737
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/447.jpg,1,7127,DM,False,2052,normal,False,1,0.651319146156311,0.7461053053793821,0.09615739
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/304.jpg,1,7584,DM,False,4207,over-arch,False,1,0.5810568332672119,0.9992262357575556,0.93826693
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/264.jpg,1,7803,DM,False,387,flat foot,False,1,0.6476580500602722,0.8894741338321235,0.98309934
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/204.jpg,1,8030,DM,False,2488,normal,False,1,0.6531995534896851,0.997209487126132,0.03514368
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/140.jpg,1,7735,DM,False,376,flat foot,False,1,0.5546318292617798,0.9416433788097511,0.9998823
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/321.jpg,1,7339,DM,False,3202,over-arch,False,1,0.6643864512443542,0.9968847352024922,0.9995079
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/241.jpg,1,5094,DM,False,3999,over-arch,False,1,0.6434758305549622,0.983605434032301,0.99855644
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/300.jpg,1,6956,DM,False,1505,flat foot,False,1,0.6277522444725037,0.7432866430526014,0.99948
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/282.jpg,1,2165,Control,False,1348,flat foot,False,1,0.6583496332168579,0.14993078768054902,0.951287
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/105.jpg,1,4780,DM,False,1389,flat foot,False,1,0.5871198773384094,0.7419843945593595,0.99965185
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/463.jpg,1,6779,DM,False,3340,over-arch,False,1,0.6864232420921326,0.9728479669155764,0.999014
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/355.jpg,1,2225,Control,False,638,flat foot,False,1,0.6641063690185547,0.16636565914115597,0.99987847
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/7.jpg,1,6750,DM,False,3926,over-arch,False,1,0.6903370022773743,1.0,0.97241986
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/112.jpg,1,7275,DM,False,1142,flat foot,False,1,0.5756312608718872,0.9968847352024922,0.96623385
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/185.jpg,1,4408,DM,False,660,flat foot,False,1,0.6163352131843567,0.8644874697482864,0.8835503
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/205.jpg,1,4350,DM,False,3250,over-arch,False,1,0.49760690331459045,0.9803818830990438,0.7701345
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/107.jpg,1,7435,DM,False,2027,normal,False,1,0.6299665570259094,0.6299020636519789,0.02000401
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/166.jpg,1,5781,DM,False,3563,over-arch,False,1,0.6206884980201721,0.995964218689804,0.84051925
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/221.jpg,1,5576,DM,False,4421,over-arch,False,1,0.7532523274421692,0.7176103658059121,0.8712379
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/83.jpg,1,4622,DM,False,1097,flat foot,False,1,0.683222234249115,0.9543326717480823,0.9985229
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/29.jpg,1,4784,DM,False,582,flat foot,False,1,0.7683801054954529,1.0,0.9835404
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/433.jpg,1,8036,DM,False,3409,over-arch,False,1,0.6474780440330505,0.651857903942742,0.9254206
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/267.jpg,1,7162,DM,False,2387,normal,False,1,0.5904483199119568,0.9928782344033035,0.061952814
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/400.jpg,1,6778,DM,False,1245,flat foot,False,1,0.6182485818862915,0.7782708627233247,0.9846403
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/173.jpg,1,7133,DM,False,4220,over-arch,False,1,0.5555196404457092,0.9892616975453031,0.94486076
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/315.jpg,1,5730,DM,False,3994,over-arch,False,1,0.7118523120880127,0.984704474040521,0.97490734
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/237.jpg,1,7192,DM,False,367,flat foot,False,1,0.6816563010215759,0.9881336051396261,0.99979484
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/134.jpg,1,1661,Control,False,140,flat foot,False,1,0.7112159132957458,0.06153185281130187,0.9988759
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/316.jpg,1,7516,DM,False,861,flat foot,False,1,0.6819343566894531,0.9801382199660222,0.9997148
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/223.jpg,1,7440,DM,False,1850,normal,False,1,0.6239347457885742,0.8660501484262113,0.07434741
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/416.jpg,1,5106,DM,False,857,flat foot,False,1,0.5268540382385254,0.9378268166364427,0.99979967
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/58.jpg,1,5014,DM,False,1016,flat foot,False,1,0.6549557447433472,0.9854801077545209,0.99983376
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/181.jpg,1,3863,Control,False,4567,over-arch,False,1,0.7419473528862,0.07333758032175944,0.7357474
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/504.jpg,1,4631,DM,False,1960,normal,False,1,0.6484555602073669,0.793786160955464,0.07709446
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/342.jpg,1,5354,DM,False,2161,normal,False,1,0.6679013967514038,0.8108279187343985,0.07536916
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/390.jpg,1,7491,DM,False,1027,flat foot,False,1,0.6239347457885742,0.9929705983356513,0.88728267
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/195.jpg,1,6878,DM,False,1450,flat foot,False,1,0.7061672210693359,1.0,0.9997564
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/147.jpg,1,8505,DM,False,1430,flat foot,False,1,0.5674097537994385,0.8675548002574389,0.9976324
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/497.jpg,1,4378,DM,False,3767,over-arch,False,1,0.6694605946540833,1.0,0.8416438
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/409.jpg,1,8078,DM,False,357,flat foot,False,1,0.663195013999939,0.7970354347896413,0.9993902
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/481.jpg,1,5233,DM,False,3728,over-arch,False,1,0.6390049457550049,1.0,0.9890722
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/466.jpg,1,8423,DM,False,3312,over-arch,False,1,0.565156877040863,0.9968847352024922,0.9542797
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/11.jpg,1,6722,DM,False,864,flat foot,False,1,0.5675075054168701,0.9609128322985344,0.99969256
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/348.jpg,1,7710,DM,False,1764,flat foot,False,1,0.5577831864356995,0.7398601268196914,0.9997142
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/234.jpg,1,7403,DM,False,2676,normal,False,1,0.6223316192626953,0.9708303810420823,0.049994167
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/222.jpg,1,7555,DM,False,112,flat foot,False,1,0.6225844025611877,0.9385100706950772,0.99978524
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/15.jpg,1,6806,DM,False,3696,over-arch,False,1,0.5514282584190369,0.9841751363346452,0.97067356
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/159.jpg,1,4452,DM,False,935,flat foot,False,1,0.666619598865509,0.8435942343086745,0.92524123
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/364.jpg,1,49,Control,False,555,flat foot,False,1,0.6448065638542175,0.049398251465851695,0.9990765
+train,/content/RGB_P/Patches/Abnormal(Ulcer)/505.jpg,1,5546,DM,False,4345,over-arch,False,1,0.6228404641151428,0.996479689994294,0.94438565
+train,/content/RGB_P/Patches/Normal(Healthy skin)/149.jpg,0,7493,DM,False,2482,normal,False,0,0.4415716528892517,0.8888657123345501,0.066532426
+train,/content/RGB_P/Patches/Normal(Healthy skin)/412.jpg,0,5034,DM,False,4091,over-arch,False,0,0.48019349575042725,0.9993812561802706,0.94474554
+train,/content/RGB_P/Patches/Normal(Healthy skin)/488.jpg,0,65,Control,False,2122,normal,False,0,0.4931325912475586,0.05218464172466612,0.2039904
+train,/content/RGB_P/Patches/Normal(Healthy skin)/120.jpg,0,5145,DM,False,345,flat foot,False,0,0.5949016213417053,0.9743210157141029,0.9997871
+train,/content/RGB_P/Patches/Normal(Healthy skin)/240.jpg,0,4302,Control,False,4555,over-arch,False,0,0.40569645166397095,0.11202288658167495,0.99880505
+train,/content/RGB_P/Patches/Normal(Healthy skin)/104.jpg,0,277,Control,False,1982,normal,False,0,0.5465150475502014,0.06639964498452833,0.065577485
+train,/content/RGB_P/Patches/Normal(Healthy skin)/131.jpg,0,279,Control,False,2391,normal,False,0,0.41689521074295044,0.04855938641472999,0.47255382
+train,/content/RGB_P/Patches/Normal(Healthy skin)/518.jpg,0,2377,Control,False,58,flat foot,False,0,0.4353077709674835,0.31870681366067916,0.99976796
+train,/content/RGB_P/Patches/Normal(Healthy skin)/88.jpg,0,1508,Control,False,2644,normal,False,0,0.49447357654571533,0.025720581117716808,0.02886509
+train,/content/RGB_P/Patches/Normal(Healthy skin)/498.jpg,0,1499,Control,False,1841,normal,False,0,0.44975781440734863,0.11279056583207404,0.058222648
+train,/content/RGB_P/Patches/Normal(Healthy skin)/346.jpg,0,998,Control,False,2080,normal,False,0,0.5223605036735535,0.05309284573467932,0.10303173
+train,/content/RGB_P/Patches/Normal(Healthy skin)/150.jpg,0,8087,DM,False,1962,normal,False,0,0.36554616689682007,0.9904590053525845,0.0747436
+train,/content/RGB_P/Patches/Normal(Healthy skin)/100.jpg,0,1623,Control,False,2916,normal,False,0,0.43278881907463074,0.07915168142241064,0.05363579
+train,/content/RGB_P/Patches/Normal(Healthy skin)/94.jpg,0,718,Control,False,1872,normal,False,0,0.39677321910858154,0.013121928722973311,0.18748435
+train,/content/RGB_P/Patches/Normal(Healthy skin)/356.jpg,0,1532,Control,False,1812,normal,False,0,0.4087384343147278,0.01704973265410671,0.050675746
+train,/content/RGB_P/Patches/Normal(Healthy skin)/113.jpg,0,4159,Control,False,2746,normal,False,0,0.36554616689682007,0.04141452812204427,0.17641404
+train,/content/RGB_P/Patches/Normal(Healthy skin)/8.jpg,0,5860,DM,False,1278,flat foot,False,0,0.46470901370048523,1.0,0.9990972
+train,/content/RGB_P/Patches/Normal(Healthy skin)/303.jpg,0,2035,Control,False,2444,normal,False,0,0.49577414989471436,0.049416896888056186,0.09023403
+train,/content/RGB_P/Patches/Normal(Healthy skin)/373.jpg,0,1735,Control,False,3874,over-arch,False,0,0.3625129163265228,0.013939294466631611,0.97963357
+train,/content/RGB_P/Patches/Normal(Healthy skin)/217.jpg,0,8029,DM,False,3033,normal,False,0,0.5155244469642639,0.7417706058052057,0.107842855
+train,/content/RGB_P/Patches/Normal(Healthy skin)/301.jpg,0,1626,Control,False,2203,normal,False,0,0.46470901370048523,0.005984877302516974,0.06999505
+train,/content/RGB_P/Patches/Normal(Healthy skin)/201.jpg,0,3687,Control,False,2531,normal,False,0,0.45535650849342346,0.012784726067040142,0.22958301
+train,/content/RGB_P/Patches/Normal(Healthy skin)/323.jpg,0,301,Control,False,1010,flat foot,False,0,0.47364023327827454,0.11940741265624656,0.99899817
+train,/content/RGB_P/Patches/Normal(Healthy skin)/146.jpg,0,1194,Control,False,2244,normal,False,0,0.4645878076553345,0.10299324252507577,0.012957408
+train,/content/RGB_P/Patches/Normal(Healthy skin)/200.jpg,0,3186,Control,False,1829,normal,False,0,0.41054439544677734,0.07338778827724068,0.04196077
+train,/content/RGB_P/Patches/Normal(Healthy skin)/49.jpg,0,6413,DM,False,317,flat foot,False,0,0.48240259289741516,0.980769614530997,0.9997682
+train,/content/RGB_P/Patches/Normal(Healthy skin)/168.jpg,0,3447,Control,False,2129,normal,False,0,0.4295025169849396,0.026429584353717728,0.028268036
+train,/content/RGB_P/Patches/Normal(Healthy skin)/341.jpg,0,1383,Control,False,2840,normal,False,0,0.46907228231430054,0.05963527496818885,0.060670037
+train,/content/RGB_P/Patches/Normal(Healthy skin)/382.jpg,0,6547,DM,False,3013,normal,False,0,0.3932860791683197,0.997675353897647,0.0048264856
+train,/content/RGB_P/Patches/Normal(Healthy skin)/279.jpg,0,861,Control,False,3800,over-arch,False,0,0.44212672114372253,0.017331141269633032,0.9827194
+train,/content/RGB_P/Patches/Normal(Healthy skin)/178.jpg,0,442,Control,False,3138,normal,False,0,0.4198727309703827,0.06269336732197953,0.039575085
+train,/content/RGB_P/Patches/Normal(Healthy skin)/437.jpg,0,3504,Control,False,3436,over-arch,False,0,0.4087384343147278,0.023636725078865797,0.6061119
+train,/content/RGB_P/Patches/Normal(Healthy skin)/287.jpg,0,4633,DM,False,3128,normal,False,0,0.46470901370048523,0.963901883391672,0.13814832
+train,/content/RGB_P/Patches/Normal(Healthy skin)/91.jpg,0,1621,Control,False,2705,normal,False,0,0.47046053409576416,0.02961992191979122,0.0342637
+train,/content/RGB_P/Patches/Normal(Healthy skin)/438.jpg,0,5,Control,False,2066,normal,False,0,0.46549680829048157,0.014679190318145826,0.10247333
+train,/content/RGB_P/Patches/Normal(Healthy skin)/86.jpg,0,6735,DM,False,2021,normal,False,0,0.5223605036735535,0.9911861587690012,0.021380175
+train,/content/RGB_P/Patches/Normal(Healthy skin)/490.jpg,0,732,Control,False,325,flat foot,False,0,0.44212672114372253,0.1785227711874752,0.99972737
+train,/content/RGB_P/Patches/Normal(Healthy skin)/3.jpg,0,5018,DM,False,2384,normal,False,0,0.3932860791683197,0.9956451041885326,0.28973877
+train,/content/RGB_P/Patches/Normal(Healthy skin)/496.jpg,0,3884,Control,False,2367,normal,False,0,0.4101703464984894,0.3539484145698316,0.04066747
+train,/content/RGB_P/Patches/Normal(Healthy skin)/208.jpg,0,4527,DM,False,2776,normal,False,0,0.47420167922973633,0.9968847352024922,0.061626974
+train,/content/RGB_P/Patches/Normal(Healthy skin)/454.jpg,0,6318,DM,False,4066,over-arch,False,0,0.4844880998134613,0.8448606473411422,0.9396739
+train,/content/RGB_P/Patches/Normal(Healthy skin)/500.jpg,0,2237,Control,False,2980,normal,False,0,0.48858606815338135,0.030993031934432952,0.024878358
+train,/content/RGB_P/Patches/Normal(Healthy skin)/180.jpg,0,3475,Control,False,2360,normal,False,0,0.45653146505355835,0.10635233344747753,0.12320197
+train,/content/RGB_P/Patches/Normal(Healthy skin)/214.jpg,0,978,Control,False,3842,over-arch,False,0,0.41961872577667236,0.005275969801474071,0.94807196
+train,/content/RGB_P/Patches/Normal(Healthy skin)/329.jpg,0,2314,Control,False,2771,normal,False,0,0.5810146927833557,0.0013572816627681157,0.16589531
+train,/content/RGB_P/Patches/Normal(Healthy skin)/235.jpg,0,105,Control,False,2294,normal,False,0,0.47899287939071655,0.08087831133216908,0.084205784
+train,/content/RGB_P/Patches/Normal(Healthy skin)/519.jpg,0,2778,Control,False,3351,over-arch,False,0,0.47899287939071655,0.05882029531255579,0.999641
+train,/content/RGB_P/Patches/Normal(Healthy skin)/32.jpg,0,1420,Control,False,2667,normal,False,0,0.4355478882789612,0.026353622720784755,0.07995122
+train,/content/RGB_P/Patches/Normal(Healthy skin)/347.jpg,0,6380,DM,False,3032,normal,False,0,0.46757104992866516,0.9766084109271649,0.070058756
+train,/content/RGB_P/Patches/Normal(Healthy skin)/27.jpg,0,1146,Control,False,2793,normal,False,0,0.42420679330825806,0.024344234935520494,0.01693601
+train,/content/RGB_P/Patches/Normal(Healthy skin)/34.jpg,0,721,Control,False,2669,normal,False,0,0.4416379928588867,0.029696823934158508,0.061041564
+train,/content/RGB_P/Patches/Normal(Healthy skin)/470.jpg,0,8362,DM,False,3700,over-arch,False,0,0.47420167922973633,0.926033681189879,0.71902984
+train,/content/RGB_P/Patches/Normal(Healthy skin)/254.jpg,0,7291,DM,False,656,flat foot,False,0,0.4427244961261749,0.9958523054264173,0.9998215
+train,/content/RGB_P/Patches/Normal(Healthy skin)/305.jpg,0,5043,DM,False,2005,normal,False,0,0.41837412118911743,0.9694340847404743,0.02632885
+train,/content/RGB_P/Patches/Normal(Healthy skin)/284.jpg,0,7571,DM,False,2968,normal,False,0,0.3932860791683197,0.8258625995417267,0.017179003
+train,/content/RGB_P/Patches/Normal(Healthy skin)/350.jpg,0,5977,DM,False,2687,normal,False,0,0.47046053409576416,0.9894753961568339,0.024980376
+train,/content/RGB_P/Patches/Normal(Healthy skin)/406.jpg,0,3339,Control,False,598,flat foot,False,0,0.5135212540626526,0.018920066805101964,0.99963737
+train,/content/RGB_P/Patches/Normal(Healthy skin)/427.jpg,0,1564,Control,False,2672,normal,False,0,0.40243735909461975,0.10219787686932555,0.2914499
+train,/content/RGB_P/Patches/Normal(Healthy skin)/228.jpg,0,3414,Control,False,3165,over-arch,False,0,0.5037973523139954,0.015079998742512528,0.9795339
+train,/content/RGB_P/Patches/Normal(Healthy skin)/396.jpg,0,3124,Control,False,2636,normal,False,0,0.46470901370048523,0.03131590683511872,0.031822626
+train,/content/RGB_P/Patches/Normal(Healthy skin)/21.jpg,0,450,Control,False,68,flat foot,False,0,0.46470901370048523,0.01499075802639728,0.99924624
+train,/content/RGB_P/Patches/Normal(Healthy skin)/133.jpg,0,8128,DM,False,2327,normal,False,0,0.3625129163265228,0.9768141394329627,0.011369278
+train,/content/RGB_P/Patches/Normal(Healthy skin)/506.jpg,0,2359,Control,False,607,flat foot,False,0,0.4349382817745209,0.1256708967400795,0.9999125
+train,/content/RGB_P/Patches/Normal(Healthy skin)/370.jpg,0,1394,Control,False,2701,normal,False,0,0.42258408665657043,0.006382518799936955,0.10424587
+train,/content/RGB_P/Patches/Normal(Healthy skin)/436.jpg,0,4590,DM,False,1782,flat foot,False,0,0.45535650849342346,0.9241330028338778,0.9996186
+train,/content/RGB_P/Patches/Normal(Healthy skin)/337.jpg,0,432,Control,False,1908,normal,False,0,0.4060448110103607,0.06685530157319372,0.041103695
+train,/content/RGB_P/Patches/Normal(Healthy skin)/510.jpg,0,81,Control,False,1998,normal,False,0,0.4158720374107361,0.026964977108704144,0.122644685
+train,/content/RGB_P/Patches/Normal(Healthy skin)/288.jpg,0,6947,DM,False,2866,normal,False,0,0.5802317261695862,0.9408953238033064,0.013038946
+train,/content/RGB_P/Patches/Normal(Healthy skin)/484.jpg,0,2500,Control,False,1946,normal,False,0,0.4642237424850464,0.010223710739992554,0.015611399
+train,/content/RGB_P/Patches/Normal(Healthy skin)/529.jpg,0,1900,Control,False,3080,normal,False,0,0.3872270882129669,0.10941619143627508,0.087305516
+train,/content/RGB_P/Patches/Normal(Healthy skin)/431.jpg,0,642,Control,False,3044,normal,False,0,0.4645878076553345,0.017665622750436392,0.40072745
+train,/content/RGB_P/Patches/Normal(Healthy skin)/18.jpg,0,7285,DM,False,1920,normal,False,0,0.4416379928588867,0.9968847352024922,0.037593827
+train,/content/RGB_P/Patches/Normal(Healthy skin)/89.jpg,0,1393,Control,False,1904,normal,False,0,0.5599057078361511,0.09545120336648967,0.0067903753
+train,/content/RGB_P/Patches/Normal(Healthy skin)/477.jpg,0,6552,DM,False,1901,normal,False,0,0.4712821841239929,0.7424776268299524,0.08047955
+train,/content/RGB_P/Patches/Normal(Healthy skin)/216.jpg,0,3299,Control,False,2025,normal,False,0,0.48858606815338135,0.0,0.06773541
+train,/content/RGB_P/Patches/Normal(Healthy skin)/360.jpg,0,440,Control,False,1230,flat foot,False,0,0.36554616689682007,0.16738078675561413,0.99968225
+train,/content/RGB_P/Patches/Normal(Healthy skin)/351.jpg,0,4088,Control,False,3143,normal,False,0,0.5963951945304871,0.007337339020830525,0.05239911
+train,/content/RGB_P/Patches/Normal(Healthy skin)/325 - Copy.jpg,0,3525,Control,False,3854,over-arch,False,0,0.44179707765579224,0.005762112866904999,0.5745492
+train,/content/RGB_P/Patches/Normal(Healthy skin)/306.jpg,0,7289,DM,False,2215,normal,False,0,0.5167949199676514,1.0,0.057884738
+train,/content/RGB_P/Patches/Normal(Healthy skin)/276.jpg,0,4983,DM,False,2237,normal,False,0,0.5617380738258362,0.9979291659615597,0.07327659
+train,/content/RGB_P/Patches/Normal(Healthy skin)/60.jpg,0,7800,DM,False,2421,normal,False,0,0.40633508563041687,0.9358643146937605,0.061148874
+train,/content/RGB_P/Patches/Normal(Healthy skin)/23.jpg,0,2715,Control,False,2043,normal,False,0,0.49577414989471436,0.012044654685680063,0.07839693
+train,/content/RGB_P/Patches/Normal(Healthy skin)/340.jpg,0,7758,DM,False,53,flat foot,False,0,0.4283534586429596,0.9612806594180495,0.9988671
+train,/content/RGB_P/Patches/Normal(Healthy skin)/457.jpg,0,5298,DM,False,363,flat foot,False,0,0.6129133701324463,0.9827451585355114,0.9997693
+train,/content/RGB_P/Patches/Normal(Healthy skin)/43.jpg,0,840,Control,False,2119,normal,False,0,0.5217504501342773,0.012229853686762684,0.15664579
+train,/content/RGB_P/Patches/Normal(Healthy skin)/95.jpg,0,5673,DM,False,3307,over-arch,False,0,0.4645878076553345,0.9972094871261318,0.8350207
+train,/content/RGB_P/Patches/Normal(Healthy skin)/145.jpg,0,1408,Control,False,404,flat foot,False,0,0.4181104600429535,0.0058313248674947485,0.73010916
+train,/content/RGB_P/Patches/Normal(Healthy skin)/472.jpg,0,93,Control,False,2096,normal,False,0,0.5155244469642639,0.0348213506114227,0.115884244
+train,/content/RGB_P/Patches/Normal(Healthy skin)/114.jpg,0,4911,DM,False,2679,normal,False,0,0.5707934498786926,0.9777556087958265,0.07788053
+train,/content/RGB_P/Patches/Normal(Healthy skin)/169.jpg,0,5754,DM,False,2848,normal,False,0,0.4359915554523468,0.9611710082515249,0.05208795
+train,/content/RGB_P/Patches/Normal(Healthy skin)/207.jpg,0,323,Control,False,2823,normal,False,0,0.42147356271743774,0.060537068254105236,0.102495745
+train,/content/RGB_P/Patches/Normal(Healthy skin)/499.jpg,0,3166,Control,False,2198,normal,False,0,0.3638765215873718,0.2733914242302054,0.036826637
+train,/content/RGB_P/Patches/Normal(Healthy skin)/71.jpg,0,1028,Control,False,3090,normal,False,0,0.37246084213256836,0.004011985205872815,0.04625738
+train,/content/RGB_P/Patches/Normal(Healthy skin)/106.jpg,0,2455,Control,False,2768,normal,False,0,0.4415716528892517,0.2771866819033803,0.010499621
+train,/content/RGB_P/Patches/Normal(Healthy skin)/274.jpg,0,1595,Control,False,3393,over-arch,False,0,0.4353077709674835,0.03525869001220255,0.99659836
+train,/content/RGB_P/Patches/Normal(Healthy skin)/434.jpg,0,6176,DM,False,1936,normal,False,0,0.48535576462745667,0.9839275961287643,0.13634333
+train,/content/RGB_P/Patches/Normal(Healthy skin)/289.jpg,0,8275,DM,False,2702,normal,False,0,0.48962080478668213,0.9942011318306131,0.15194419
+train,/content/RGB_P/Patches/Normal(Healthy skin)/230.jpg,0,8249,DM,False,2074,normal,False,0,0.41624918580055237,0.9810097937576423,0.018443275
+train,/content/RGB_P/Patches/Normal(Healthy skin)/277.jpg,0,3349,Control,False,2428,normal,False,0,0.46788644790649414,0.0020487772488313803,0.10822402
+train,/content/RGB_P/Patches/Normal(Healthy skin)/411.jpg,0,1545,Control,False,1489,flat foot,False,0,0.48962080478668213,0.025636338591911133,0.99976575
+train,/content/RGB_P/Patches/Normal(Healthy skin)/253.jpg,0,5002,DM,False,2163,normal,False,0,0.37336266040802,0.9030369738534071,0.048753828
+train,/content/RGB_P/Patches/Normal(Healthy skin)/414.jpg,0,1602,Control,False,2342,normal,False,0,0.4415716528892517,0.04838900461227094,0.110449255
+train,/content/RGB_P/Patches/Normal(Healthy skin)/191.jpg,0,4172,Control,False,2007,normal,False,0,0.6129133701324463,0.07009569512752091,0.16732211
+train,/content/RGB_P/Patches/Normal(Healthy skin)/13.jpg,0,4075,Control,False,2722,normal,False,0,0.41837412118911743,0.06176446231229963,0.09148769
+train,/content/RGB_P/Patches/Normal(Healthy skin)/48.jpg,0,2383,Control,False,1650,flat foot,False,0,0.47364023327827454,0.09514980211980395,0.82328
+train,/content/RGB_P/Patches/Normal(Healthy skin)/73.jpg,0,7744,DM,False,2659,normal,False,0,0.4733874499797821,0.9925433404687155,0.010196437
+train,/content/RGB_P/Patches/Normal(Healthy skin)/126.jpg,0,1181,Control,False,2877,normal,False,0,0.5802317261695862,0.017239969076977873,0.049931224
+train,/content/RGB_P/Patches/Normal(Healthy skin)/339.jpg,0,1042,Control,False,3526,over-arch,False,0,0.4580804705619812,0.13289186307613057,0.99903226
+train,/content/RGB_P/Patches/Normal(Healthy skin)/98.jpg,0,3757,Control,False,3674,over-arch,False,0,0.42258408665657043,0.02177987251967324,0.99976027
+train,/content/RGB_P/Patches/Normal(Healthy skin)/452.jpg,0,1630,Control,False,3185,over-arch,False,0,0.48989105224609375,0.023274121710884346,0.99799097
+train,/content/RGB_P/Patches/Normal(Healthy skin)/209.jpg,0,2255,Control,False,2564,normal,False,0,0.4695688486099243,0.17234037582940245,0.06657006
+train,/content/RGB_P/Patches/Normal(Healthy skin)/206.jpg,0,6690,DM,False,1140,flat foot,False,0,0.40866363048553467,0.9679867971242729,0.9877124
+train,/content/RGB_P/Patches/Normal(Healthy skin)/311.jpg,0,5193,DM,False,2567,normal,False,0,0.4355478882789612,0.9836499117700167,0.04230205
+train,/content/RGB_P/Patches/Normal(Healthy skin)/507.jpg,0,1240,Control,False,2788,normal,False,0,0.41624918580055237,0.08310729237928413,0.07804896
+train,/content/RGB_P/Patches/Normal(Healthy skin)/121.jpg,0,8344,DM,False,2372,normal,False,0,0.4980747401714325,0.9468906778104993,0.010367198
+train,/content/RGB_P/Patches/Normal(Healthy skin)/375.jpg,0,5485,DM,False,2881,normal,False,0,0.41837412118911743,1.0,0.007635209
+train,/content/RGB_P/Patches/Normal(Healthy skin)/321 - Copy.jpg,0,2440,Control,False,2201,normal,False,0,0.46797576546669006,0.0024390590240399093,0.021577355
+train,/content/RGB_P/Patches/Normal(Healthy skin)/448.jpg,0,3991,Control,False,2230,normal,False,0,0.41961872577667236,0.09601540807946314,0.013294573
+train,/content/RGB_P/Patches/Normal(Healthy skin)/109.jpg,0,3085,Control,False,2599,normal,False,0,0.42151719331741333,0.0761304538899808,0.06653431
+train,/content/RGB_P/Patches/Normal(Healthy skin)/128.jpg,0,2318,Control,False,1897,normal,False,0,0.46470901370048523,0.009015868975486695,0.027758665
+train,/content/RGB_P/Patches/Normal(Healthy skin)/330.jpg,0,3135,Control,False,3105,normal,False,0,0.40633508563041687,0.08439998117760741,0.05557422
+train,/content/RGB_P/Patches/Normal(Healthy skin)/257.jpg,0,1573,Control,False,2602,normal,False,0,0.493132621049881,0.0,0.2143987
+train,/content/RGB_P/Patches/Normal(Healthy skin)/368.jpg,0,6433,DM,False,3507,over-arch,False,0,0.4413214921951294,0.9816060843870351,0.9718092
+train,/content/RGB_P/Patches/Normal(Healthy skin)/394.jpg,0,3921,Control,False,2388,normal,False,0,0.46470901370048523,0.04472357437472244,0.03609631
+train,/content/RGB_P/Patches/Normal(Healthy skin)/47.jpg,0,760,Control,False,4137,over-arch,False,0,0.5742053985595703,0.043767886246454654,0.98682463
+train,/content/RGB_P/Patches/Normal(Healthy skin)/30.jpg,0,2836,Control,False,3739,over-arch,False,0,0.41689521074295044,0.023117017042267672,0.9919059
+train,/content/RGB_P/Patches/Normal(Healthy skin)/536.jpg,0,3284,Control,False,2175,normal,False,0,0.4030532240867615,0.03275343281983321,0.09797488
+train,/content/RGB_P/Patches/Normal(Healthy skin)/479.jpg,0,1007,Control,False,2474,normal,False,0,0.45686107873916626,0.005203451529378223,0.003735892
+train,/content/RGB_P/Patches/Normal(Healthy skin)/203.jpg,0,6871,DM,False,1656,flat foot,False,0,0.4054133892059326,0.9968847352024922,0.99969393
+train,/content/RGB_P/Patches/Normal(Healthy skin)/352.jpg,0,2299,Control,False,1953,normal,False,0,0.42151719331741333,0.006806094507369491,0.02210153
+train,/content/RGB_P/Patches/Normal(Healthy skin)/19.jpg,0,6883,DM,False,2759,normal,False,0,0.3625129163265228,0.9771955465633642,0.10924451
+train,/content/RGB_P/Patches/Normal(Healthy skin)/46.jpg,0,1056,Control,False,2546,normal,False,0,0.46797576546669006,0.0005229719658198801,0.028212093
+train,/content/RGB_P/Patches/Normal(Healthy skin)/417.jpg,0,1281,Control,False,3018,normal,False,0,0.41689521074295044,0.02552510936367918,0.012515568
+train,/content/RGB_P/Patches/Normal(Healthy skin)/143.jpg,0,8287,DM,False,3367,over-arch,False,0,0.4283534586429596,0.9945600891001393,0.97035927
+train,/content/RGB_P/Patches/Normal(Healthy skin)/194.jpg,0,2459,Control,False,1985,normal,False,0,0.44803112745285034,0.06452373111101599,0.33952737
+train,/content/RGB_P/Patches/Normal(Healthy skin)/35.jpg,0,1287,Control,False,326,flat foot,False,0,0.3625129163265228,0.0643448533741059,0.9998909
+train,/content/RGB_P/Patches/Normal(Healthy skin)/298.jpg,0,3056,Control,False,2966,normal,False,0,0.5802317261695862,0.03906424903976765,0.010100175
+train,/content/RGB_P/Patches/Normal(Healthy skin)/369.jpg,0,1117,Control,False,2405,normal,False,0,0.43278881907463074,0.09358017429112989,0.028850976
+train,/content/RGB_P/Patches/Normal(Healthy skin)/486.jpg,0,5663,DM,False,1811,normal,False,0,0.37336266040802,0.9688821819469157,0.14597538
+train,/content/RGB_P/Patches/Normal(Healthy skin)/514.jpg,0,2535,Control,False,2450,normal,False,0,0.5083796381950378,0.054841419365197805,0.022092212
+train,/content/RGB_P/Patches/Normal(Healthy skin)/478.jpg,0,2396,Control,False,2227,normal,False,0,0.41895413398742676,0.018635733377584004,0.12342032
+train,/content/RGB_P/Patches/Normal(Healthy skin)/90.jpg,0,5009,DM,False,3064,normal,False,0,0.5293638110160828,0.9701564228039106,0.9441772
+train,/content/RGB_P/Patches/Normal(Healthy skin)/432.jpg,0,2894,Control,False,2671,normal,False,0,0.4198727309703827,0.030116560012497757,0.10222755
+train,/content/RGB_P/Patches/Normal(Healthy skin)/44.jpg,0,95,Control,False,1947,normal,False,0,0.5222995281219482,0.03248112233100062,0.046049714
+train,/content/RGB_P/Patches/Normal(Healthy skin)/299.jpg,0,1182,Control,False,1575,flat foot,False,0,0.3625129163265228,0.04429429424716144,0.8744229
+train,/content/RGB_P/Patches/Normal(Healthy skin)/420.jpg,0,2775,Control,False,31,flat foot,False,0,0.42863988876342773,0.05890212564352354,0.9997373
+train,/content/RGB_P/Patches/Normal(Healthy skin)/475.jpg,0,4751,DM,False,2429,normal,False,0,0.4054133892059326,0.9906542056074766,0.012204055
+train,/content/RGB_P/Patches/Normal(Healthy skin)/122.jpg,0,4109,Control,False,1886,normal,False,0,0.3932860791683197,0.06853782288599358,0.030249838
+train,/content/RGB_P/Patches/Normal(Healthy skin)/129.jpg,0,3390,Control,False,2894,normal,False,0,0.48962080478668213,0.007851971049386652,0.046750307
+train,/content/RGB_P/Patches/Normal(Healthy skin)/79.jpg,0,2817,Control,False,3081,normal,False,0,0.5257430076599121,0.029754442254119773,0.22612208
+train,/content/RGB_P/Patches/Normal(Healthy skin)/523.jpg,0,4080,Control,False,2399,normal,False,0,0.43556320667266846,0.08327450848355143,0.012112895
+train,/content/RGB_P/Patches/Normal(Healthy skin)/2.jpg,0,3066,Control,False,2686,normal,False,0,0.4980747401714325,0.09444299872065326,0.97254395
+train,/content/RGB_P/Patches/Normal(Healthy skin)/275.jpg,0,7667,DM,False,2076,normal,False,0,0.3872270882129669,0.9739645842075437,0.043673567
+train,/content/RGB_P/Patches/Normal(Healthy skin)/226.jpg,0,6029,DM,False,1660,flat foot,False,0,0.43493834137916565,0.9885833715690363,0.9992838
+train,/content/RGB_P/Patches/Normal(Healthy skin)/441.jpg,0,6899,DM,False,4078,over-arch,False,0,0.4295025169849396,1.0,0.9991556
+train,/content/RGB_P/Patches/Normal(Healthy skin)/511.jpg,0,1742,Control,False,2666,normal,False,0,0.4018750786781311,0.11619487338394217,0.2805178
+train,/content/RGB_P/Patches/Normal(Healthy skin)/362.jpg,0,2085,Control,False,2965,normal,False,0,0.4223215579986572,0.02192549352709909,0.08121064
+train,/content/RGB_P/Patches/Normal(Healthy skin)/461.jpg,0,3142,Control,False,396,flat foot,False,0,0.5037973523139954,0.0026675956231485836,0.9860669
+train,/content/RGB_P/Patches/Normal(Healthy skin)/199.jpg,0,4625,DM,False,2160,normal,False,0,0.3817376494407654,0.787389033451304,0.14522561
+train,/content/RGB_P/Patches/Normal(Healthy skin)/198.jpg,0,2335,Control,False,2532,normal,False,0,0.417316198348999,0.06208502423491795,0.25093332
+train,/content/RGB_P/Patches/Normal(Healthy skin)/202.jpg,0,149,Control,False,2825,normal,False,0,0.44975781440734863,0.05760030651367731,0.079241596
+train,/content/RGB_P/Patches/Normal(Healthy skin)/10.jpg,0,1901,Control,False,3102,normal,False,0,0.49577414989471436,0.2704164044526408,0.046535537
+train,/content/RGB_P/Patches/Normal(Healthy skin)/353.jpg,0,7236,DM,False,2540,normal,False,0,0.39677321910858154,0.9529626998567443,0.042387653
+train,/content/RGB_P/Patches/Normal(Healthy skin)/296.jpg,0,3545,Control,False,1965,normal,False,0,0.4416379928588867,0.08229799605649779,0.013468636
+train,/content/RGB_P/Patches/Normal(Healthy skin)/307.jpg,0,401,Control,False,2206,normal,False,0,0.42420679330825806,0.008859399445123754,0.03775712
+train,/content/RGB_P/Patches/Normal(Healthy skin)/365.jpg,0,4026,Control,False,2516,normal,False,0,0.4181104600429535,0.11919756936519274,0.00296702
+train,/content/RGB_P/Patches/Normal(Healthy skin)/309.jpg,0,4952,DM,False,3065,normal,False,0,0.3884301483631134,0.9799816343520479,0.020608993
+train,/content/RGB_P/Patches/Normal(Healthy skin)/391.jpg,0,3281,Control,False,2320,normal,False,0,0.5847867131233215,0.03477476612675875,0.05807488
+train,/content/RGB_P/Patches/Normal(Healthy skin)/280.jpg,0,838,Control,False,1913,normal,False,0,0.4030532240867615,0.012275368089490786,0.14750108
+train,/content/RGB_P/Patches/Normal(Healthy skin)/410.jpg,0,2213,Control,False,1968,normal,False,0,0.3650391399860382,0.0533459021152028,0.24016544
+train,/content/RGB_P/Patches/Normal(Healthy skin)/320.jpg,0,3477,Control,False,2268,normal,False,0,0.4824025630950928,0.006498765640340511,0.098780446
+train,/content/RGB_P/Patches/Normal(Healthy skin)/260.jpg,0,948,Control,False,2571,normal,False,0,0.5083796381950378,0.05977536485148475,0.110476315
+train,/content/RGB_P/Patches/Normal(Healthy skin)/14.jpg,0,8279,DM,False,2595,normal,False,0,0.4350006580352783,0.9555240317545599,0.04113038
+train,/content/RGB_P/Patches/Normal(Healthy skin)/138.jpg,0,5931,DM,False,3647,over-arch,False,0,0.46549680829048157,0.9666777263452845,0.031102788
+train,/content/RGB_P/Patches/Normal(Healthy skin)/278.jpg,0,2170,Control,False,2504,normal,False,0,0.42341282963752747,0.031047385116730376,0.114866324
+train,/content/RGB_P/Patches/Normal(Healthy skin)/28.jpg,0,2635,Control,False,1842,normal,False,0,0.5167949199676514,0.1095591555787813,0.015590139
+train,/content/RGB_P/Patches/Normal(Healthy skin)/344.jpg,0,7531,DM,False,1785,flat foot,False,0,0.37246084213256836,0.9579626767554827,0.9997651
+train,/content/RGB_P/Patches/Normal(Healthy skin)/383.jpg,0,8479,DM,False,4011,over-arch,False,0,0.4283534586429596,0.9133453952500018,0.98455065
+train,/content/RGB_P/Patches/Normal(Healthy skin)/476.jpg,0,2229,Control,False,2083,normal,False,0,0.40866363048553467,0.03429191473857056,0.07808998
+train,/content/RGB_P/Patches/Normal(Healthy skin)/80.jpg,0,3484,Control,False,3896,over-arch,False,0,0.46757104992866516,0.026395523696552185,0.99531305
+train,/content/RGB_P/Patches/Normal(Healthy skin)/61.jpg,0,867,Control,False,1384,flat foot,False,0,0.5105561017990112,0.03238029384309701,0.9996234
+train,/content/RGB_P/Patches/Normal(Healthy skin)/405.jpg,0,3368,Control,False,2454,normal,False,0,0.4980747401714325,0.021482580094361027,0.03246968
+train,/content/RGB_P/Patches/Normal(Healthy skin)/69.jpg,0,6220,DM,False,2806,normal,False,0,0.4283534586429596,0.8450401654378795,0.060272142
+train,/content/RGB_P/Patches/Normal(Healthy skin)/453.jpg,0,809,Control,False,2855,normal,False,0,0.36554616689682007,0.0024390590240399093,0.101401076
+train,/content/RGB_P/Patches/Normal(Healthy skin)/246.jpg,0,1513,Control,False,2023,normal,False,0,0.400544673204422,0.0015548703679135203,0.057226382
+train,/content/RGB_P/Patches/Normal(Healthy skin)/127.jpg,0,6018,DM,False,3535,over-arch,False,0,0.3625129163265228,0.9881783263608381,0.9987711
+train,/content/RGB_P/Patches/Normal(Healthy skin)/308.jpg,0,1371,Control,False,2270,normal,False,0,0.41689521074295044,0.07204245044593516,0.11169097
+train,/content/RGB_P/Patches/Normal(Healthy skin)/93.jpg,0,1649,Control,False,2126,normal,False,0,0.4223215579986572,0.02979586121161559,0.13323538
+train,/content/RGB_P/Patches/Normal(Healthy skin)/51.jpg,0,2648,Control,False,1955,normal,False,0,0.44179707765579224,0.05174713509377799,0.3187192
+train,/content/RGB_P/Patches/Normal(Healthy skin)/447.jpg,0,4617,DM,False,2744,normal,False,0,0.5524662137031555,0.832086187380845,0.034991123
+train,/content/RGB_P/Patches/Normal(Healthy skin)/264.jpg,0,2846,Control,False,2500,normal,False,0,0.4633415937423706,0.00625504750202922,0.012562159
+train,/content/RGB_P/Patches/Normal(Healthy skin)/325.jpg,0,2882,Control,False,3369,over-arch,False,0,0.44179707765579224,0.01740464484486538,0.9556248
+train,/content/RGB_P/Patches/Normal(Healthy skin)/204.jpg,0,3249,Control,False,2114,normal,False,0,0.4712821841239929,0.10728205061628546,0.077077664
+train,/content/RGB_P/Patches/Normal(Healthy skin)/300.jpg,0,7226,DM,False,4516,over-arch,False,0,0.48962080478668213,0.9870354704884715,0.999487
+train,/content/RGB_P/Patches/Normal(Healthy skin)/355.jpg,0,1737,Control,False,2732,normal,False,0,0.4733874499797821,0.010981874369632228,0.018062474
+train,/content/RGB_P/Patches/Normal(Healthy skin)/7.jpg,0,4248,Control,False,4202,over-arch,False,0,0.5802317261695862,0.004078960711347726,0.89352167
+train,/content/RGB_P/Patches/Normal(Healthy skin)/107.jpg,0,3948,Control,False,111,flat foot,False,0,0.5963951945304871,0.04349124468860643,0.9976386
+train,/content/RGB_P/Patches/Normal(Healthy skin)/221.jpg,0,5646,DM,False,2095,normal,False,0,0.4642237424850464,0.9801424007418077,0.063225724
+train,/content/RGB_P/Patches/Normal(Healthy skin)/29.jpg,0,494,Control,False,1990,normal,False,0,0.3884301483631134,0.0906002146780861,0.011872215
+train,/content/RGB_P/Patches/Normal(Healthy skin)/433.jpg,0,3139,Control,False,1447,flat foot,False,0,0.3817376494407654,0.05498252748886592,0.9140617
+train,/content/RGB_P/Patches/Normal(Healthy skin)/445.jpg,0,6471,DM,False,2178,normal,False,0,0.42147356271743774,0.9222229189575293,0.014736619
+train,/content/RGB_P/Patches/Normal(Healthy skin)/533.jpg,0,5732,DM,False,3607,over-arch,False,0,0.4633415937423706,0.9795558848450396,0.93724763
+train,/content/RGB_P/Patches/Normal(Healthy skin)/68.jpg,0,2157,Control,False,3457,over-arch,False,0,0.4060448110103607,0.008030778956123133,0.91354
+train,/content/RGB_P/Patches/Normal(Healthy skin)/290.jpg,0,2572,Control,False,1928,normal,False,0,0.49577414989471436,0.07575970446302564,0.020955715
+train,/content/RGB_P/Patches/Normal(Healthy skin)/181.jpg,0,8506,DM,False,3107,normal,False,0,0.41895413398742676,0.9930136816318231,0.20328917
+train,/content/RGB_P/Patches/Normal(Healthy skin)/525.jpg,0,3557,Control,False,2440,normal,False,0,0.40569645166397095,0.29973455884611433,0.017218547
+train,/content/RGB_P/Patches/Normal(Healthy skin)/473.jpg,0,7142,DM,False,2907,normal,False,0,0.45653146505355835,0.9520906069199362,0.088465735
+train,/content/RGB_P/Patches/Normal(Healthy skin)/70.jpg,0,7914,DM,False,2477,normal,False,0,0.4580804705619812,0.9838348940170398,0.090878434
+train,/content/RGB_P/Patches/Normal(Healthy skin)/195.jpg,0,4659,DM,False,2171,normal,False,0,0.48535576462745667,0.9728479669155764,0.15563764
+train,/content/RGB_P/Patches/Normal(Healthy skin)/147.jpg,0,5067,DM,False,3147,normal,False,0,0.4087384343147278,0.9050009708841814,0.05283303
+train,/content/RGB_P/Patches/Normal(Healthy skin)/258.jpg,0,1911,Control,False,2993,normal,False,0,0.4018750786781311,0.03682484149640909,0.1592372
+train,/content/RGB_P/Patches/Normal(Healthy skin)/22.jpg,0,2798,Control,False,2140,normal,False,0,0.48962080478668213,0.023668045451477267,0.038780138
+train,/content/RGB_P/Patches/Normal(Healthy skin)/9.jpg,0,3282,Control,False,2753,normal,False,0,0.48962080478668213,0.045609405276687186,0.06354003
+train,/content/RGB_P/Patches/Normal(Healthy skin)/219.jpg,0,3869,Control,False,1462,flat foot,False,0,0.3638765215873718,0.006991664761254786,0.9974915
+train,/content/RGB_P/Patches/Normal(Healthy skin)/323 - Copy.jpg,0,1046,Control,False,600,flat foot,False,0,0.47364023327827454,0.0036382367633276684,0.9996608
+train,/content/RGB_P/Patches/Normal(Healthy skin)/364.jpg,0,5105,DM,False,3306,over-arch,False,0,0.4645878076553345,0.9970705864856566,0.6147597
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115409.410.jpg,1,7447,DM,False,2015,normal,False,1,0.7136403918266296,0.8828072368601609,0.06282608
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110245.435.jpg,1,5670,DM,False,1698,flat foot,False,1,0.7329520583152771,0.9935276593240644,0.9995449
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0025.jpg,1,5865,DM,False,3960,over-arch,False,1,0.558033287525177,0.960677484888289,0.9995838
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (22).jpg,1,5212,DM,False,1727,flat foot,False,1,0.5460814833641052,0.9870324897091279,0.99970746
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115027.681.jpg,1,5373,DM,False,3373,over-arch,False,1,0.6785863637924194,0.9495478632304795,0.88031
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (13).jpg,1,1824,Control,False,3656,over-arch,False,1,0.74889075756073,0.02328316559482381,0.99931246
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0033.jpg,1,5740,DM,False,3566,over-arch,False,1,0.6384193897247314,0.9968847352024922,0.9984289
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111256.684.jpg,1,4874,DM,False,2911,normal,False,1,0.6050856113433838,0.9812770209817654,0.09945451
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114432.107.jpg,1,6436,DM,False,973,flat foot,False,1,0.6993292570114136,0.9740322080736846,0.99974763
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112403.138.jpg,1,6904,DM,False,1215,flat foot,False,1,0.6268875598907471,0.3194244342139458,0.9997794
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123211.543.jpg,1,6182,DM,False,4562,over-arch,False,1,0.654900074005127,1.0,0.9141239
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123035.951.jpg,1,6484,DM,False,2110,normal,False,1,0.7138787508010864,0.9968847352024922,0.026554218
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114400.603.jpg,1,4475,DM,False,1123,flat foot,False,1,0.7857027649879456,0.9272215126498208,0.9998568
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123237.761.jpg,1,6660,DM,False,4311,over-arch,False,1,0.6785863637924194,1.0,0.98703253
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0009.jpg,1,7424,DM,False,3015,normal,False,1,0.4843221604824066,0.8359065689439565,0.073550045
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112716.379.jpg,1,2218,Control,False,1463,flat foot,False,1,0.49979472160339355,0.1424632871352351,0.9998974
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120916.058.jpg,1,6276,DM,False,4074,over-arch,False,1,0.7224504351615906,0.5977088298280234,0.9993491
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120813.738.jpg,1,5675,DM,False,4480,over-arch,False,1,0.6306948065757751,0.9989675702239251,0.9495751
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (38).jpg,1,7550,DM,False,435,flat foot,False,1,0.6660688519477844,0.7408714322903927,0.99974096
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115852.811.jpg,1,1679,Control,False,3281,over-arch,False,1,0.690706193447113,0.009345794392523364,0.9902253
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114457.075.jpg,1,6227,DM,False,3430,over-arch,False,1,0.7409631609916687,0.9103421444815483,0.94053924
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (67).jpg,1,4136,Control,False,3959,over-arch,False,1,0.6655731201171875,0.03010373595341217,0.94741344
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120301.755.jpg,1,1252,Control,False,2580,normal,False,1,0.7343329191207886,0.04652548527211353,0.11033925
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0001.jpg,1,7308,DM,False,3284,over-arch,False,1,0.7101989984512329,0.985298905968481,0.9985777
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111130.706.jpg,1,7838,DM,False,3480,over-arch,False,1,0.7353853583335876,0.993377926274477,0.9834681
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123656.377.jpg,1,4462,DM,False,676,flat foot,False,1,0.5720899105072021,0.9808259620800971,0.99892575
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (66).jpg,1,5333,DM,False,3512,over-arch,False,1,0.5960843563079834,0.9909226244012459,0.9771035
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (95).jpg,1,5108,DM,False,4191,over-arch,False,1,0.7079306244850159,0.7900290975081226,0.8648142
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (85).jpg,1,5046,DM,False,1192,flat foot,False,1,0.6792139410972595,0.9875389408099688,0.9984676
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115334.875.jpg,1,7552,DM,False,3245,over-arch,False,1,0.5240786671638489,0.9984491181400915,0.89938796
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125100.904.jpg,1,7499,DM,False,3831,over-arch,False,1,0.652929425239563,0.9306673487957752,0.89124084
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111049.796.jpg,1,6686,DM,False,3525,over-arch,False,1,0.6491504907608032,0.9580447672657567,0.93446344
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113457.812.jpg,1,2769,Control,False,1231,flat foot,False,1,0.6295116543769836,0.018757491727108947,0.999862
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120037.290.jpg,1,7783,DM,False,4438,over-arch,False,1,0.5615742206573486,0.960842728109356,0.980059
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115448.888.jpg,1,6777,DM,False,2912,normal,False,1,0.6691100001335144,0.7333884932671416,0.16762088
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/diabetic foot ulcer..jpg,1,2476,Control,False,4086,over-arch,False,1,0.5630834102630615,0.03205979138880053,0.9698242
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120900.234.jpg,1,7426,DM,False,3256,over-arch,False,1,0.6481558680534363,0.9551128499724003,0.9993871
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (76).jpg,1,247,Control,False,3300,over-arch,False,1,0.700896680355072,0.004676169444016472,0.79517573
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123458.225.jpg,1,227,Control,False,3402,over-arch,False,1,0.5908723473548889,0.07141586619791926,0.9989036
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125148.007.jpg,1,5489,DM,False,3196,over-arch,False,1,0.660560131072998,1.0,0.99883556
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111408.115.jpg,1,6996,DM,False,812,flat foot,False,1,0.6400020718574524,0.9915498021621725,0.9997664
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0007.jpg,1,6876,DM,False,3965,over-arch,False,1,0.6211615800857544,0.9875123328883817,0.9758353
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (19).jpg,1,7796,DM,False,1060,flat foot,False,1,0.5554263591766357,0.9989675702239251,0.9988631
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111937.495.jpg,1,7068,DM,False,3595,over-arch,False,1,0.6611977815628052,0.970930187046355,0.9453831
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123446.241.jpg,1,6617,DM,False,1944,normal,False,1,0.6574991345405579,0.9385098017956407,0.030238211
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (32).jpg,1,830,Control,False,4193,over-arch,False,1,0.7170197367668152,0.030311419046085954,0.99912924
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112022.990.jpg,1,5556,DM,False,3750,over-arch,False,1,0.5628215074539185,0.8939887262981439,0.96596706
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124800.265.jpg,1,6546,DM,False,2709,normal,False,1,0.8058872818946838,0.9968847352024922,0.032903932
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110946.740.jpg,1,5635,DM,False,850,flat foot,False,1,0.5824288725852966,1.0,0.99835753
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0024.jpg,1,6398,DM,False,3161,over-arch,False,1,0.6515073776245117,0.9961109709600479,0.9437634
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111135.075.jpg,1,2297,Control,False,178,flat foot,False,1,0.579790472984314,0.13771021986123366,0.9993007
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110925.452.jpg,1,1173,Control,False,1516,flat foot,False,1,0.5026839971542358,0.04187648033978917,0.99967325
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120802.616.jpg,1,8235,DM,False,2984,normal,False,1,0.772511899471283,0.9968847352024922,0.16480456
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/Diabetic-Foot-Wounds-Small-288x300.jpg,1,4993,DM,False,1467,flat foot,False,1,0.7008366584777832,0.559991254609725,0.88713384
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124320.491.jpg,1,8433,DM,False,2184,normal,False,1,0.7266154289245605,0.9989675702239251,0.047364566
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124804.329.jpg,1,6765,DM,False,3601,over-arch,False,1,0.6137551069259644,0.6473046425561092,0.9977983
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0007.jpg,1,7394,DM,False,368,flat foot,False,1,0.7492069602012634,0.9875524418876596,0.99983895
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/493ss_thinkstock_rf_cleaning_wound_with_tweezers.jpg,1,6657,DM,False,3618,over-arch,False,1,0.6517089009284973,0.8361111327521598,0.9995965
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (21).jpg,1,5127,DM,False,1879,normal,False,1,0.7313718199729919,0.9901477545066357,0.04369344
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115920.674.jpg,1,6325,DM,False,2887,normal,False,1,0.6411435008049011,0.9610779415529905,0.045796614
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112753.581.jpg,1,6913,DM,False,3450,over-arch,False,1,0.5623769164085388,1.0,0.9992747
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123518.480.jpg,1,7004,DM,False,4217,over-arch,False,1,0.7443416714668274,0.908944386238294,0.9993102
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120830.370.jpg,1,6244,DM,False,4169,over-arch,False,1,0.7032875418663025,0.9994845286955102,0.9986004
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T121042.878.jpg,1,5496,DM,False,3962,over-arch,False,1,0.7079774141311646,1.0,0.93989927
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112221.505.jpg,1,5174,DM,False,704,flat foot,False,1,0.5654290914535522,1.0,0.99970406
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124745.954.jpg,1,8382,DM,False,3418,over-arch,False,1,0.6192002296447754,0.9863113107790017,0.9690957
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123953.902.jpg,1,5201,DM,False,3882,over-arch,False,1,0.6793044805526733,0.9915169371893426,0.96536857
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0007.jpg,1,5344,DM,False,4520,over-arch,False,1,0.6244415044784546,0.8169914143735266,0.9796318
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112856.546.jpg,1,6820,DM,False,2274,normal,False,1,0.689946711063385,1.0,0.1656974
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111351.120.jpg,1,6879,DM,False,4181,over-arch,False,1,0.6146615147590637,0.9352512283765619,0.9974589
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114030.316.jpg,1,8357,DM,False,2624,normal,False,1,0.6365799903869629,0.8348591838466963,0.11142807
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124724.113.jpg,1,5982,DM,False,4147,over-arch,False,1,0.6247105598449707,0.969637970720077,0.9418563
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114649.143.jpg,1,8191,DM,False,3529,over-arch,False,1,0.6666862964630127,0.9968847352024922,0.9843593
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124424.077.jpg,1,5296,DM,False,4186,over-arch,False,1,0.5796244740486145,0.9303512892228357,0.9598777
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120930.810.jpg,1,5666,DM,False,2336,normal,False,1,0.7258860468864441,0.9722912546184842,0.17295262
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114425.019.jpg,1,4616,DM,False,3688,over-arch,False,1,0.6734108924865723,0.863495344656327,0.86656785
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120807.693.jpg,1,2706,Control,False,4291,over-arch,False,1,0.7053292989730835,0.016256901292231767,0.9774715
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (3).jpg,1,7680,DM,False,1784,flat foot,False,1,0.6491504907608032,0.9897869221099316,0.99986327
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (53).jpg,1,4955,DM,False,3103,normal,False,1,0.653032124042511,0.8929161434672628,0.012647796
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0019.jpg,1,2545,Control,False,4126,over-arch,False,1,0.6696364283561707,0.07356336394346262,0.9368364
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112323.612.jpg,1,6052,DM,False,1678,flat foot,False,1,0.48320379853248596,0.963901883391672,0.9993741
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (10).jpg,1,2622,Control,False,760,flat foot,False,1,0.6994895339012146,0.23158078990793887,0.99952006
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download.jpg,1,5214,DM,False,331,flat foot,False,1,0.7210248112678528,0.696931695253055,0.99982685
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124727.991.jpg,1,7047,DM,False,4469,over-arch,False,1,0.6306948065757751,0.991969302883167,0.7594194
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (26).jpg,1,2942,Control,False,3727,over-arch,False,1,0.6663098931312561,0.01135783079225079,0.9995984
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123434.401.jpg,1,6578,DM,False,4125,over-arch,False,1,0.6511939167976379,0.9625311764318119,0.9562002
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110920.405.jpg,1,3799,Control,False,4477,over-arch,False,1,0.5726349949836731,0.01665151565287948,0.99791974
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111414.144.jpg,1,4722,DM,False,4140,over-arch,False,1,0.7854747772216797,0.9855390466312558,0.96941566
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123117.106.jpg,1,6440,DM,False,1711,flat foot,False,1,0.6217334270477295,0.9635959268543679,0.9987657
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114232.747.jpg,1,1967,Control,False,3608,over-arch,False,1,0.6603699326515198,0.04528865589360808,0.9809892
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (77).jpg,1,7104,DM,False,1546,flat foot,False,1,0.674298107624054,0.9448923728328074,0.99843043
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120315.923.jpg,1,3807,Control,False,4295,over-arch,False,1,0.6698326468467712,0.05140861969772394,0.99920154
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114138.803.jpg,1,6085,DM,False,1125,flat foot,False,1,0.7329521179199219,0.9733935199136698,0.9999158
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111941.987.jpg,1,4144,Control,False,2486,normal,False,1,0.6425490975379944,0.015657936771340197,0.05863455
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125120.327.jpg,1,4623,DM,False,1143,flat foot,False,1,0.7329521179199219,0.9559216009407943,0.9994354
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (37).jpg,1,5011,DM,False,2558,normal,False,1,0.4800443649291992,0.934661142271623,0.033620045
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114304.285.jpg,1,8187,DM,False,2442,normal,False,1,0.6805225014686584,0.9989675702239251,0.11229646
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (44).jpg,1,7296,DM,False,741,flat foot,False,1,0.742211639881134,0.9159131450083768,0.9997005
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110650.828.jpg,1,7479,DM,False,1822,normal,False,1,0.6122966408729553,0.9984491181400915,0.023010295
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120109.186.jpg,1,5541,DM,False,51,flat foot,False,1,0.7363892197608948,0.8683448178648909,0.99941164
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120713.248.jpg,1,7501,DM,False,3671,over-arch,False,1,0.6818005442619324,0.9896278023281038,0.97183734
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (28).jpg,1,5616,DM,False,1146,flat foot,False,1,0.7251128554344177,0.9887310968656052,0.99973124
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (100).jpg,1,5988,DM,False,64,flat foot,False,1,0.653032124042511,1.0,0.9993254
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers013.jpg,1,6285,DM,False,4298,over-arch,False,1,0.6764739751815796,1.0,0.99756414
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (11).jpg,1,6192,DM,False,3454,over-arch,False,1,0.7635054588317871,0.9065674565193488,0.9850558
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T122951.897.jpg,1,6167,DM,False,4453,over-arch,False,1,0.690706193447113,0.9891033237475682,0.94791394
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111851.691.jpg,1,3057,Control,False,3776,over-arch,False,1,0.7464984059333801,0.04788878588923794,0.99821347
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114755.548.jpg,1,6110,DM,False,4015,over-arch,False,1,0.6221022009849548,0.9074276604795324,0.99506134
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112804.874.jpg,1,4453,DM,False,669,flat foot,False,1,0.5509098172187805,0.5202871613664533,0.9990426
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0001.jpg,1,4620,DM,False,1613,flat foot,False,1,0.551547646522522,1.0,0.9718809
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113650.487.jpg,1,4320,DM,False,4558,over-arch,False,1,0.4911907911300659,1.0,0.9713649
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110222.580.jpg,1,5013,DM,False,3350,over-arch,False,1,0.7669089436531067,0.9397661874563065,0.96346986
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (97).jpg,1,3649,Control,False,4584,over-arch,False,1,0.603948712348938,0.077886434547233,0.99828553
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115857.474.jpg,1,7326,DM,False,4259,over-arch,False,1,0.7594854831695557,0.9948183820380938,0.9402245
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (69).jpg,1,5387,DM,False,4608,over-arch,False,1,0.6593232750892639,0.6357037760025993,0.92241114
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0009.jpg,1,6392,DM,False,2090,normal,False,1,0.5024913549423218,0.9089470533845974,0.10959652
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (84).jpg,1,8399,DM,False,2199,normal,False,1,0.6541805267333984,0.849507351934416,0.122422814
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers012.jpg,1,8019,DM,False,3371,over-arch,False,1,0.6928592920303345,0.9810300005292786,0.9987986
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111503.307.jpg,1,7184,DM,False,2173,normal,False,1,0.6605810523033142,0.830746223280535,0.14627121
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124058.434.jpg,1,7706,DM,False,2353,normal,False,1,0.626250684261322,0.8367901836534563,0.11295609
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113715.329.jpg,1,52,Control,False,3338,over-arch,False,1,0.7390360832214355,0.0640933030656728,0.949209
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110329.244.jpg,1,7359,DM,False,1483,flat foot,False,1,0.7609361410140991,0.986506511033894,0.9993306
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124731.436.jpg,1,5518,DM,False,1323,flat foot,False,1,0.7835073471069336,0.9989675702239251,0.9997954
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120558.210.jpg,1,5876,DM,False,4016,over-arch,False,1,0.7116354703903198,0.969189500477662,0.9989265
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (17).jpg,1,2121,Control,False,2541,normal,False,1,0.6664206385612488,0.0036390685917788977,0.0279887
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (72).jpg,1,6008,DM,False,3610,over-arch,False,1,0.6922231316566467,0.9662992888499353,0.9140232
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120121.779.jpg,1,5379,DM,False,3914,over-arch,False,1,0.6580236554145813,0.9839385976398216,0.9911579
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110208.219.jpg,1,5084,DM,False,4307,over-arch,False,1,0.6213685870170593,0.9989675702239251,0.9984969
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113912.370.jpg,1,3900,Control,False,3838,over-arch,False,1,0.7329520583152771,0.04348630544112835,0.89056265
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0003.jpg,1,7085,DM,False,4190,over-arch,False,1,0.6387186646461487,0.9836600376258314,0.9917983
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113744.737.jpg,1,8093,DM,False,4468,over-arch,False,1,0.633585512638092,0.9844236760124611,0.95362085
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125814.280.jpg,1,7648,DM,False,1138,flat foot,False,1,0.7154762148857117,1.0,0.99972105
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125826.018.jpg,1,4573,DM,False,1748,flat foot,False,1,0.43286076188087463,0.9844540315428625,0.9997949
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120504.818.jpg,1,7485,DM,False,3211,over-arch,False,1,0.6639490127563477,0.9934754785088948,0.9804379
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120452.019.jpg,1,5446,DM,False,3921,over-arch,False,1,0.6747029423713684,0.9594443823119992,0.99889624
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T121052.466.jpg,1,6654,DM,False,692,flat foot,False,1,0.6185580492019653,0.979663264115851,0.9217183
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (75).jpg,1,7452,DM,False,806,flat foot,False,1,0.7103865742683411,0.9928782344033035,0.9993876
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125830.456.jpg,1,3358,Control,False,2311,normal,False,1,0.6668378114700317,0.04561362426086135,0.14044158
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111236.437.jpg,1,4761,DM,False,4451,over-arch,False,1,0.631881594657898,0.9895059780406243,0.9813471
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111403.752.jpg,1,5413,DM,False,2060,normal,False,1,0.6507598161697388,0.8755073574343623,0.08847171
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (49).jpg,1,4582,DM,False,1684,flat foot,False,1,0.6593232750892639,0.9907903435875257,0.98947525
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113916.618.jpg,1,5287,DM,False,2838,normal,False,1,0.7032256722450256,0.983718141534527,0.025487043
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113924.066.jpg,1,4366,DM,False,4541,over-arch,False,1,0.6940492391586304,0.9730458866975105,0.86224663
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0035.jpg,1,5669,DM,False,994,flat foot,False,1,0.6530120372772217,0.8484796963767602,0.9998527
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115037.092.jpg,1,5241,DM,False,103,flat foot,False,1,0.6793044805526733,0.8766579887056571,0.9963911
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125716.906.jpg,1,2616,Control,False,4195,over-arch,False,1,0.6907142400741577,0.08962805200677089,0.9882536
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (5).jpg,1,6153,DM,False,2830,normal,False,1,0.5973060727119446,0.7482663601653484,0.023753153
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0013.jpg,1,4888,DM,False,4392,over-arch,False,1,0.7525796890258789,1.0,0.99915385
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112738.090.jpg,1,6455,DM,False,2879,normal,False,1,0.7114741802215576,0.9828727941525527,0.08482207
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124750.345.jpg,1,4899,DM,False,1622,flat foot,False,1,0.6141684055328369,0.9968847352024922,0.99945223
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (2).jpg,1,8154,DM,False,1390,flat foot,False,1,0.6641011238098145,0.8724324369618961,0.9998126
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (71).jpg,1,5437,DM,False,118,flat foot,False,1,0.5801699161529541,0.9004788282242349,0.9997882
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/1167.jpg,1,6084,DM,False,3363,over-arch,False,1,0.6410409212112427,0.9937694704049844,0.9234364
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (7).jpg,1,6539,DM,False,3867,over-arch,False,1,0.6673465967178345,0.939293021662513,0.9994279
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111858.586.jpg,1,836,Control,False,2166,normal,False,1,0.6864398121833801,0.0104740306461391,0.1507712
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114706.614.jpg,1,5929,DM,False,3472,over-arch,False,1,0.6698326468467712,0.895290642366281,0.9993213
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123342.992.jpg,1,5919,DM,False,2240,normal,False,1,0.6818005442619324,0.9392089976867484,0.046242714
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113928.332.jpg,1,6134,DM,False,1266,flat foot,False,1,0.6650786995887756,1.0,0.99990815
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (6).jpg,1,6767,DM,False,3715,over-arch,False,1,0.6565396785736084,0.984164119658387,0.9984146
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/1167 (1).jpg,1,7671,DM,False,3555,over-arch,False,1,0.6410409212112427,0.6731818770275018,0.93171966
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112744.755.jpg,1,5255,DM,False,257,flat foot,False,1,0.6491504907608032,0.873873116663494,0.69427633
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123030.265.jpg,1,6460,DM,False,3333,over-arch,False,1,0.7070046067237854,0.9466330885263514,0.99965
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114730.762.jpg,1,8346,DM,False,1747,flat foot,False,1,0.6374353170394897,0.9282047066639697,0.99907255
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/m7_07.jpg,1,3595,Control,False,4473,over-arch,False,1,0.4925224483013153,0.0731867095985391,0.9609031
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120218.833.jpg,1,5768,DM,False,4203,over-arch,False,1,0.6436012983322144,0.9796206961336656,0.99919015
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123255.419.jpg,1,7044,DM,False,3689,over-arch,False,1,0.5137803554534912,0.9870163419566449,0.9798868
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120758.699.jpg,1,6637,DM,False,294,flat foot,False,1,0.8216261863708496,0.9604077682287178,0.99968016
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0010.jpg,1,3096,Control,False,3096,normal,False,1,0.5708997249603271,0.0,0.046235442
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (52).jpg,1,6804,DM,False,744,flat foot,False,1,0.5573194026947021,1.0,0.9996286
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers011.jpg,1,4360,DM,False,494,flat foot,False,1,0.5984081625938416,0.9854681067715285,0.9996645
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125711.291.jpg,1,3003,Control,False,2600,normal,False,1,0.7117849588394165,0.08816068676225015,0.16109371
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114356.355.jpg,1,7780,DM,False,3031,normal,False,1,0.6759483218193054,0.878994266169529,0.028312393
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123320.464.jpg,1,6990,DM,False,4603,over-arch,False,1,0.7069974541664124,0.962533418453437,0.9974984
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120448.233.jpg,1,7497,DM,False,437,flat foot,False,1,0.7117849588394165,0.9706400484122341,0.9996431
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0014.jpg,1,2275,Control,False,1858,normal,False,1,0.6544852256774902,0.13032043799353848,0.032194413
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115317.331.jpg,1,4420,DM,False,854,flat foot,False,1,0.6947416663169861,0.9543277803909648,0.37424737
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (60).jpg,1,7071,DM,False,1707,flat foot,False,1,0.5956480503082275,0.8219202766670612,0.9995061
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114047.490.jpg,1,6493,DM,False,3172,over-arch,False,1,0.6796004176139832,0.9887310968656052,0.7008957
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123353.296.jpg,1,7124,DM,False,1725,flat foot,False,1,0.6638529896736145,0.9710355229752052,0.9996159
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/Wound.jpg,1,5047,DM,False,2485,normal,False,1,0.7301544547080994,0.9937694704049844,0.068959035
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114803.242.jpg,1,8042,DM,False,4109,over-arch,False,1,0.6186215281486511,0.9792420580505549,0.99747753
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120728.545.jpg,1,5071,DM,False,3584,over-arch,False,1,0.6638529896736145,0.9533329039986577,0.99865294
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (34).jpg,1,8300,DM,False,1013,flat foot,False,1,0.751110315322876,0.9390557390115276,0.927906
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (9).jpg,1,8188,DM,False,4105,over-arch,False,1,0.6578982472419739,0.9714875392218107,0.99829006
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/skin-wound.jpg,1,4919,DM,False,339,flat foot,False,1,0.6188416481018066,0.9968847352024922,0.9996737
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120005.799.jpg,1,3753,Control,False,1487,flat foot,False,1,0.6853167414665222,0.129398356203563,0.91209394
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120520.587.jpg,1,6307,DM,False,4425,over-arch,False,1,0.5771505832672119,0.9079692628127572,0.9712328
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114652.998.jpg,1,5143,DM,False,4049,over-arch,False,1,0.6421204805374146,0.877795467036554,0.9990154
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120850.388.jpg,1,6474,DM,False,3461,over-arch,False,1,0.7196764945983887,0.4496711622342182,0.9899661
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114132.405.jpg,1,8378,DM,False,3269,over-arch,False,1,0.5693367719650269,0.9417452559689184,0.8921791
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (25).jpg,1,7159,DM,False,414,flat foot,False,1,0.6221022009849548,0.957435297301137,0.9971174
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113834.434.jpg,1,7473,DM,False,4199,over-arch,False,1,0.6652135848999023,0.9895831669268222,0.9706876
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111000.515.jpg,1,6332,DM,False,621,flat foot,False,1,0.6454711556434631,0.9864679021293145,0.99988055
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/wound_odor_dressing.jpg,1,5922,DM,False,3976,over-arch,False,1,0.6535956859588623,0.8688670796808815,0.94713914
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112133.668.jpg,1,5380,DM,False,3385,over-arch,False,1,0.6472378969192505,0.9250200135612926,0.9985694
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0003.jpg,1,5372,DM,False,3389,over-arch,False,1,0.7204161286354065,0.9812281179303949,0.9991539
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112309.415.jpg,1,5534,DM,False,2859,normal,False,1,0.5375176072120667,0.9968847352024922,0.014564448
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115159.851.jpg,1,5851,DM,False,2999,normal,False,1,0.7285768389701843,1.0,0.087712064
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114738.432.jpg,1,7188,DM,False,7,flat foot,False,1,0.5654290914535522,0.988738076912825,0.9615385
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/1059472_10201711432010861_933813692_n.jpg,1,6912,DM,False,4560,over-arch,False,1,0.6308997273445129,0.9195894698066072,0.99878293
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114751.476.jpg,1,6451,DM,False,4053,over-arch,False,1,0.7655990123748779,0.9704920045633831,0.9714616
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112019.436.jpg,1,8453,DM,False,3384,over-arch,False,1,0.6255024075508118,0.9937694704049844,0.9992821
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0012.jpg,1,938,Control,False,1701,flat foot,False,1,0.5615634322166443,0.12666480326525173,0.9995647
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0024.jpg,1,4324,DM,False,4225,over-arch,False,1,0.7790038585662842,0.9869896367552684,0.99936724
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0017.jpg,1,5239,DM,False,3756,over-arch,False,1,0.6047406792640686,0.992762542689593,0.99748117
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114022.116.jpg,1,5118,DM,False,4614,over-arch,False,1,0.7150771021842957,0.9995582583544806,0.9665383
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114202.995.jpg,1,6188,DM,False,923,flat foot,False,1,0.5826178193092346,1.0,0.99968183
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (23).jpg,1,7037,DM,False,1353,flat foot,False,1,0.5392476320266724,0.854139747696045,0.9998319
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114348.812.jpg,1,5491,DM,False,501,flat foot,False,1,0.7329521179199219,1.0,0.99984163
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114005.845.jpg,1,6379,DM,False,2461,normal,False,1,0.7089025378227234,0.8369966788456804,0.038764782
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112749.041.jpg,1,6568,DM,False,429,flat foot,False,1,0.7136155366897583,0.9617481115517279,0.9984645
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0002.jpg,1,4588,DM,False,1759,flat foot,False,1,0.7625784277915955,0.9814277656462683,0.99981636
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/hotel-campestre-camino.jpg,1,3103,Control,False,4432,over-arch,False,1,0.5886794328689575,0.042903795348308994,0.99894035
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (42).jpg,1,7942,DM,False,3912,over-arch,False,1,0.5472036600112915,0.9929957061625401,0.92257446
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111220.475.jpg,1,5739,DM,False,3305,over-arch,False,1,0.6339336633682251,1.0,0.99832046
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112244.712.jpg,1,5788,DM,False,2168,normal,False,1,0.7655990123748779,0.9867651765675245,0.07478532
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112027.587.jpg,1,4880,DM,False,2784,normal,False,1,0.6731741428375244,0.9165141291742628,0.1411139
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110056.948.jpg,1,1810,Control,False,926,flat foot,False,1,0.5801699161529541,0.01377012996901961,0.99917096
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0023.jpg,1,8477,DM,False,1933,normal,False,1,0.7727928757667542,0.934661142271623,0.06445458
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125035.330.jpg,1,7791,DM,False,1676,flat foot,False,1,0.690706193447113,0.9937694704049844,0.99867594
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111932.832.jpg,1,4393,DM,False,846,flat foot,False,1,0.6518725752830505,0.9965426323856764,0.85460037
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (96).jpg,1,2258,Control,False,3564,over-arch,False,1,0.5373608469963074,0.012784726067040142,0.99923074
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111904.715.jpg,1,5804,DM,False,2113,normal,False,1,0.6731741428375244,0.9551128499724003,0.09952931
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111115.717.jpg,1,6394,DM,False,3190,over-arch,False,1,0.5530089735984802,0.7124607364370351,0.8399233
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0009.jpg,1,8438,DM,False,1409,flat foot,False,1,0.7687028050422668,1.0,0.9977586
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112812.170.jpg,1,5053,DM,False,1075,flat foot,False,1,0.7154762148857117,0.9992262357575556,0.9998494
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (29).jpg,1,7286,DM,False,3660,over-arch,False,1,0.8154732584953308,0.9999613910954205,0.9991798
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112120.956.jpg,1,6209,DM,False,579,flat foot,False,1,0.6471056342124939,0.9968847352024922,0.98979586
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125620.457.jpg,1,7113,DM,False,837,flat foot,False,1,0.6931660771369934,0.9663122593766734,0.92141944
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115950.820.jpg,1,7100,DM,False,2329,normal,False,1,0.7209748029708862,0.7398872990018723,0.09957029
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125114.990.jpg,1,7673,DM,False,3591,over-arch,False,1,0.677873432636261,0.6875832208392452,0.9295284
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (7).jpg,1,8058,DM,False,4228,over-arch,False,1,0.6773749589920044,0.9968847352024922,0.9977206
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (1).jpg,1,2491,Control,False,2243,normal,False,1,0.7348854541778564,0.05632380303734395,0.07861954
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114436.516.jpg,1,4560,DM,False,3521,over-arch,False,1,0.6209339499473572,1.0,0.95642537
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113752.746.jpg,1,7665,DM,False,1680,flat foot,False,1,0.6287082433700562,0.9854681067715285,0.998592
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123357.079.jpg,1,6313,DM,False,4163,over-arch,False,1,0.6785091161727905,0.7014669230207349,0.8764439
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111958.008.jpg,1,7976,DM,False,735,flat foot,False,1,0.6436012983322144,0.9782246229644193,0.99942213
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112225.543.jpg,1,6369,DM,False,1182,flat foot,False,1,0.7112477421760559,0.6390152423047131,0.9997497
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112816.252.jpg,1,6362,DM,False,2020,normal,False,1,0.7857027649879456,1.0,0.08478418
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123231.385.jpg,1,533,Control,False,347,flat foot,False,1,0.7188616394996643,0.08824235677908554,0.99983984
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110703.284.jpg,1,7041,DM,False,3405,over-arch,False,1,0.6511214375495911,0.9489542560074791,0.961673
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (93).jpg,1,7442,DM,False,3695,over-arch,False,1,0.7330537438392639,0.9203109194847472,0.97706187
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111106.890.jpg,1,7077,DM,False,1057,flat foot,False,1,0.7053791880607605,0.9943721595185324,0.99896145
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110240.981.jpg,1,6915,DM,False,3694,over-arch,False,1,0.7085261344909668,0.9994845286955102,0.9648856
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111029.315.jpg,1,6683,DM,False,2615,normal,False,1,0.7193973064422607,0.9028566650747606,0.009044742
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110611.107.jpg,1,7457,DM,False,2180,normal,False,1,0.6511214375495911,0.9979291659615597,0.23875362
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115356.056.jpg,1,8164,DM,False,3877,over-arch,False,1,0.7182136178016663,0.9342289896835639,0.9991009
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0004.jpg,1,4042,Control,False,2008,normal,False,1,0.5820004940032959,0.03471318517976084,0.054310706
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112015.203.jpg,1,485,Control,False,2107,normal,False,1,0.6521895527839661,0.007539600374004033,0.14158148
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110135.174.jpg,1,8263,DM,False,462,flat foot,False,1,0.664359450340271,0.8888030538096909,0.8956221
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0013.jpg,1,4322,DM,False,3055,normal,False,1,0.5932626128196716,0.824884907522664,0.040282097
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115151.291.jpg,1,8517,DM,False,4539,over-arch,False,1,0.61502605676651,0.9989675702239251,0.95367223
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (78).jpg,1,1746,Control,False,3054,normal,False,1,0.6765799522399902,0.12182072237229975,0.04727401
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112833.891.jpg,1,915,Control,False,3554,over-arch,False,1,0.6374353170394897,0.040008149011697317,0.99442464
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0010.jpg,1,5650,DM,False,3100,normal,False,1,0.7473024129867554,0.9904176669126532,0.019851577
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110251.820.jpg,1,6500,DM,False,499,flat foot,False,1,0.694036602973938,0.964889507796048,0.98520935
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124916.409.jpg,1,2153,Control,False,4350,over-arch,False,1,0.8058872818946838,0.005771270802948397,0.98586375
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (15).jpg,1,7895,DM,False,911,flat foot,False,1,0.7453869581222534,0.9968847352024922,0.99988043
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0004.jpg,1,5692,DM,False,2990,normal,False,1,0.5474138855934143,1.0,0.064745285
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (8).jpg,1,5012,DM,False,3749,over-arch,False,1,0.6668872237205505,0.7870573506932673,0.99946314
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124106.844.jpg,1,5972,DM,False,3137,normal,False,1,0.6125359535217285,0.8268334716097763,0.05478707
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110718.465.jpg,1,3176,Control,False,4434,over-arch,False,1,0.7352980375289917,0.14990508299228128,0.8502651
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111232.636.jpg,1,8292,DM,False,278,flat foot,False,1,0.7509755492210388,1.0,0.9992584
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0019.jpg,1,5979,DM,False,303,flat foot,False,1,0.638706386089325,0.9968847352024922,0.99980843
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115521.368.jpg,1,7244,DM,False,3469,over-arch,False,1,0.6582832932472229,0.9574366980802489,0.99953175
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115937.436.jpg,1,7614,DM,False,574,flat foot,False,1,0.7255567312240601,0.9691404748848704,0.9543522
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110907.450.jpg,1,7968,DM,False,1059,flat foot,False,1,0.6776719689369202,0.9440780110554967,0.9996633
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (43).jpg,1,6117,DM,False,1723,flat foot,False,1,0.5693069100379944,0.8397890728159555,0.9987755
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110203.613.jpg,1,5877,DM,False,2895,normal,False,1,0.5395090579986572,0.8981840925461198,0.11296784
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115526.824.jpg,1,5055,DM,False,2284,normal,False,1,0.6305682063102722,0.9975121197703689,0.3557915
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111313.882.jpg,1,5605,DM,False,3653,over-arch,False,1,0.5804464817047119,0.9934711806033564,0.99740773
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114243.662.jpg,1,6917,DM,False,849,flat foot,False,1,0.6914629936218262,0.9937694704049844,0.9998976
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/skin.jpg,1,7413,DM,False,2233,normal,False,1,0.494020015001297,0.9793275379531496,0.041359354
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112249.273.jpg,1,7890,DM,False,4388,over-arch,False,1,0.6902981996536255,0.9886296783910657,0.99979275
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110619.996.jpg,1,8429,DM,False,3079,normal,False,1,0.5613120198249817,0.9789116521480574,0.050231434
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0002.jpg,1,6195,DM,False,72,flat foot,False,1,0.6055585145950317,0.9859914562089791,0.9998935
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110151.909.jpg,1,1351,Control,False,2640,normal,False,1,0.7092654705047607,0.04964534248132333,0.108481824
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123122.922.jpg,1,8232,DM,False,210,flat foot,False,1,0.43286076188087463,0.9906542056074766,0.9997997
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114504.163.jpg,1,7080,DM,False,3503,over-arch,False,1,0.6778963208198547,0.8736969370638272,0.97009337
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/download (2).jpg,1,5294,DM,False,2856,normal,False,1,0.5469738841056824,1.0,0.06741345
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120319.822.jpg,1,7955,DM,False,2330,normal,False,1,0.7261332869529724,0.9968847352024922,0.18072657
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0022.jpg,1,4851,DM,False,407,flat foot,False,1,0.552209734916687,0.7990150866097895,0.9983253
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (57).jpg,1,3847,Control,False,3606,over-arch,False,1,0.5960843563079834,0.28343854927524237,0.9986356
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113829.443.jpg,1,4907,DM,False,4591,over-arch,False,1,0.5432198643684387,0.9738849499619807,0.9965262
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0020.jpg,1,8246,DM,False,4079,over-arch,False,1,0.6875196695327759,0.8994756622735318,0.72367036
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111418.533.jpg,1,4923,DM,False,2995,normal,False,1,0.6900901794433594,0.9197055377867659,0.025439046
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110159.244.jpg,1,414,Control,False,4304,over-arch,False,1,0.7443416714668274,0.12573382244934084,0.92794734
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115415.097.jpg,1,8270,DM,False,4521,over-arch,False,1,0.6711485981941223,0.9096054243990745,0.9491304
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110711.955.jpg,1,6076,DM,False,2767,normal,False,1,0.6227279901504517,0.4152275542122932,0.05700005
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115127.077.jpg,1,5177,DM,False,2641,normal,False,1,0.6880063414573669,0.9859469345873646,0.46737266
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124931.379.jpg,1,6308,DM,False,121,flat foot,False,1,0.7488253116607666,0.9968847352024922,0.90824765
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (63).jpg,1,1127,Control,False,3939,over-arch,False,1,0.7629136443138123,0.0859835018458866,0.9993421
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114934.906.jpg,1,3558,Control,False,1930,normal,False,1,0.7289766669273376,0.08666708628729819,0.04691127
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113556.413.jpg,1,4425,DM,False,4531,over-arch,False,1,0.5070398449897766,0.9891033237475682,0.9441559
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113908.034.jpg,1,8273,DM,False,2629,normal,False,1,0.6122966408729553,0.991162544303617,0.03715173
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0032.jpg,1,2042,Control,False,569,flat foot,False,1,0.6869489550590515,0.11730152260184094,0.97920185
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (80).jpg,1,8259,DM,False,1460,flat foot,False,1,0.5818957090377808,0.9631957661766614,0.99696803
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0018.jpg,1,4581,DM,False,2589,normal,False,1,0.4754284620285034,0.7865119127664111,0.0652024
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (47).jpg,1,4092,Control,False,3710,over-arch,False,1,0.6222907900810242,0.03589130216601659,0.9990528
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/r0_0_1000_562_w1200_h678_fmax.jpg,1,6106,DM,False,360,flat foot,False,1,0.6392211318016052,0.9766291324916859,0.8908718
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111024.203.jpg,1,6776,DM,False,1221,flat foot,False,1,0.6411734223365784,0.9817492325286399,0.8476625
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/riskfactors.jpg,1,1041,Control,False,4442,over-arch,False,1,0.6782410740852356,0.006752347706442652,0.8953128
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111019.396.jpg,1,7972,DM,False,3798,over-arch,False,1,0.716059684753418,0.88444124801804,0.99497163
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125736.490.jpg,1,7528,DM,False,919,flat foot,False,1,0.7032875418663025,1.0,0.99930304
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123134.799.jpg,1,3926,Control,False,1477,flat foot,False,1,0.6406458616256714,0.049208672860860066,0.9144026
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113739.210.jpg,1,4679,DM,False,4413,over-arch,False,1,0.6122826337814331,0.9400483524794124,0.9990125
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113727.171.jpg,1,8317,DM,False,688,flat foot,False,1,0.7250335812568665,0.9891033237475683,0.986546
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114746.619.jpg,1,6475,DM,False,262,flat foot,False,1,0.7112477421760559,0.9754026335435775,0.9994829
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124808.940.jpg,1,2642,Control,False,3904,over-arch,False,1,0.6222580075263977,0.03533181909563444,0.95102787
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (91).jpg,1,7885,DM,False,619,flat foot,False,1,0.5801699161529541,0.8920790932409342,0.99979496
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110105.694.jpg,1,515,Control,False,1478,flat foot,False,1,0.5944897532463074,0.03293611816175547,0.9997544
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111211.675.jpg,1,987,Control,False,1598,flat foot,False,1,0.6399255990982056,0.04122033403939723,0.99934936
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/m5_03.jpg,1,1775,Control,False,1583,flat foot,False,1,0.7797789573669434,0.08632303136125612,0.8885481
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/UlcerLeg-650x450.jpg,1,7858,DM,False,3659,over-arch,False,1,0.6015632152557373,0.9723964549292752,0.90409935
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115400.130.jpg,1,4645,DM,False,4610,over-arch,False,1,0.6495128870010376,0.8810400869000405,0.99927914
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (58).jpg,1,7252,DM,False,3917,over-arch,False,1,0.5659741759300232,0.6125552991223224,0.9992742
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111015.252.jpg,1,6640,DM,False,3505,over-arch,False,1,0.7112477421760559,1.0,0.99873513
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112821.010.jpg,1,4716,DM,False,2542,normal,False,1,0.7655990123748779,0.6042717370166761,0.0034781042
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (14).jpg,1,7833,DM,False,3288,over-arch,False,1,0.5095245838165283,0.7528002108444527,0.9987538
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123545.620.jpg,1,2828,Control,False,3572,over-arch,False,1,0.6122966408729553,0.04477983128431164,0.9756505
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125111.103.jpg,1,5685,DM,False,408,flat foot,False,1,0.6796004176139832,0.9092551417687382,0.99635774
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112032.426.jpg,1,7917,DM,False,448,flat foot,False,1,0.5355821251869202,0.6882443911025876,0.9483407
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120326.233.jpg,1,5811,DM,False,3148,normal,False,1,0.6505200266838074,0.5940129123986723,0.09796207
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (59).jpg,1,7451,DM,False,4466,over-arch,False,1,0.653032124042511,0.8900215945230415,0.99912703
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0011.jpg,1,5821,DM,False,3504,over-arch,False,1,0.7073022723197937,0.9783140798844812,0.9651846
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124535.889.jpg,1,3488,Control,False,1081,flat foot,False,1,0.6126320958137512,0.09358017429112989,0.9988386
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114328.302.jpg,1,6326,DM,False,4013,over-arch,False,1,0.6734108924865723,0.7514648323514116,0.95032126
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115155.882.jpg,1,2645,Control,False,977,flat foot,False,1,0.7586377859115601,0.03518772778441197,0.9998094
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125133.473.jpg,1,6242,DM,False,3924,over-arch,False,1,0.560023307800293,0.9993273512361041,0.8962778
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images.jpg,1,5753,DM,False,902,flat foot,False,1,0.7061907052993774,1.0,0.99979234
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112111.132.jpg,1,7303,DM,False,3489,over-arch,False,1,0.7181651592254639,0.34073415029204673,0.81790143
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111510.028.jpg,1,4815,DM,False,3276,over-arch,False,1,0.7251507043838501,0.9702366885328167,0.96955216
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0014.jpg,1,6987,DM,False,4194,over-arch,False,1,0.6570375561714172,0.9802928358915889,0.96063757
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114702.280.jpg,1,7866,DM,False,291,flat foot,False,1,0.7261332869529724,0.5330469539053736,0.93830985
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112145.243.jpg,1,7087,DM,False,3447,over-arch,False,1,0.6586113572120667,0.9808259620800971,0.996183
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115043.818.jpg,1,2854,Control,False,4524,over-arch,False,1,0.6391941905021667,0.023737842320085845,0.9775207
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0005.jpg,1,5640,DM,False,86,flat foot,False,1,0.747113049030304,0.6793510732450458,0.99912876
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113722.776.jpg,1,1669,Control,False,914,flat foot,False,1,0.694036602973938,0.023597425299061232,0.9997461
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123420.307.jpg,1,7340,DM,False,1405,flat foot,False,1,0.6711485981941223,1.0,0.9270776
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0020.jpg,1,4887,DM,False,3782,over-arch,False,1,0.5537829995155334,0.9605883449048598,0.9987096
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/undermining0016.jpg,1,6565,DM,False,50,flat foot,False,1,0.6438754200935364,0.9689895942350963,0.9994251
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113552.530.jpg,1,7385,DM,False,3061,normal,False,1,0.540469229221344,0.9883228309082279,0.028133934
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123526.923.jpg,1,6054,DM,False,3122,normal,False,1,0.6536674499511719,0.8763934935464132,0.027871512
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (62).jpg,1,2290,Control,False,2517,normal,False,1,0.6316388249397278,0.007837352291064631,0.1464862
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/dried-wound-skin-hand-white-background_105034-169.jpg,1,5767,DM,False,1717,flat foot,False,1,0.6807525157928467,0.9761489806148257,0.99979407
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0023.jpg,1,4656,DM,False,785,flat foot,False,1,0.7029038667678833,0.6804218526296143,0.99862206
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113445.650.jpg,1,4869,DM,False,1503,flat foot,False,1,0.7581371068954468,0.6994056676760086,0.9995303
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124142.700.jpg,1,6154,DM,False,4206,over-arch,False,1,0.6547942161560059,0.9961109709600479,0.9790019
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (3).jpg,1,5482,DM,False,1484,flat foot,False,1,0.6641011238098145,0.9297122968521304,0.999193
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124035.522.jpg,1,6197,DM,False,3894,over-arch,False,1,0.7941237092018127,0.9206463733905613,0.9640184
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (94).jpg,1,7233,DM,False,522,flat foot,False,1,0.5573194026947021,0.9887485178475659,0.9991997
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (56).jpg,1,5818,DM,False,4414,over-arch,False,1,0.603948712348938,0.8697782148668161,0.98654777
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124950.649.jpg,1,5999,DM,False,893,flat foot,False,1,0.7117849588394165,0.9981373272607726,0.87116057
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115432.587.jpg,1,3008,Control,False,3043,normal,False,1,0.6044979691505432,0.027463428713780772,0.082035035
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115405.252.jpg,1,7596,DM,False,684,flat foot,False,1,0.6929633021354675,0.9999613910954205,0.9998911
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112155.484.jpg,1,6316,DM,False,3934,over-arch,False,1,0.6186215281486511,0.986506511033894,0.9491142
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/ulcerated-leg-wound-dr-p-marazziscience-photo-library.jpg,1,6853,DM,False,2228,normal,False,1,0.5495991706848145,0.9914515967834265,0.1613103
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110446.156.jpg,1,7053,DM,False,3860,over-arch,False,1,0.6718677282333374,0.9452852353055937,0.82376295
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/screen_shot_2014-10-20_at_1.33.14_pm.jpg,1,5420,DM,False,2714,normal,False,1,0.562869668006897,1.0,0.035043325
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0021.jpg,1,5548,DM,False,4038,over-arch,False,1,0.5994397401809692,1.0,0.9997374
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (20).jpg,1,6463,DM,False,3577,over-arch,False,1,0.6395589709281921,0.9668012590767346,0.9757312
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120709.185.jpg,1,5154,DM,False,2265,normal,False,1,0.7445699572563171,1.0,0.040244
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120821.546.jpg,1,8123,DM,False,3160,over-arch,False,1,0.6339405179023743,0.8487331743130995,0.8469535
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112900.708.jpg,1,5470,DM,False,4282,over-arch,False,1,0.6491504907608032,0.8738330780873287,0.90143186
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123347.355.jpg,1,1286,Control,False,3194,over-arch,False,1,0.5750934481620789,0.005563188173389179,0.9476764
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0019.jpg,1,7547,DM,False,790,flat foot,False,1,0.6099041104316711,0.9962659913827631,0.9993762
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110951.516.jpg,1,7348,DM,False,2704,normal,False,1,0.5216736793518066,0.9779888383802015,0.10078337
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125628.489.jpg,1,8458,DM,False,632,flat foot,False,1,0.6942717432975769,0.9937694704049844,0.90893793
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124540.337.jpg,1,930,Control,False,4509,over-arch,False,1,0.6561752557754517,0.03362584028336569,0.9989803
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120434.491.jpg,1,6319,DM,False,1742,flat foot,False,1,0.6673295497894287,0.9561430000808752,0.99985754
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0030.jpg,1,5086,DM,False,1294,flat foot,False,1,0.5562214851379395,0.9447602820503468,0.99984765
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (64).jpg,1,6732,DM,False,3462,over-arch,False,1,0.6593232750892639,0.9952952444380042,0.99923074
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115049.331.jpg,1,6320,DM,False,3162,over-arch,False,1,0.6993266940116882,0.8116656730527959,0.91530555
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120720.127.jpg,1,5499,DM,False,823,flat foot,False,1,0.6785091161727905,0.9929957061625401,0.8845839
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/e26_Infected_Heel_ulcer.jpg,1,5281,DM,False,77,flat foot,False,1,0.7689884901046753,0.937223880865501,0.999364
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0029.jpg,1,5543,DM,False,456,flat foot,False,1,0.7304530739784241,0.729899824713416,0.9997655
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114515.411.jpg,1,5835,DM,False,379,flat foot,False,1,0.7153116464614868,0.7673414754006656,0.38196415
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115453.099.jpg,1,7365,DM,False,1671,flat foot,False,1,0.7170408368110657,1.0,0.99977183
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110824.754.jpg,1,6329,DM,False,3453,over-arch,False,1,0.7114741802215576,0.9023402440604742,0.9685354
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (40).jpg,1,4561,DM,False,1633,flat foot,False,1,0.6554639935493469,0.9087694797967624,0.9816493
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (24).jpg,1,8080,DM,False,3362,over-arch,False,1,0.6186650395393372,1.0,0.95664185
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111004.597.jpg,1,5377,DM,False,1383,flat foot,False,1,0.6491504907608032,1.0,0.99987465
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124937.657.jpg,1,5107,DM,False,1066,flat foot,False,1,0.663560152053833,0.9872930010042587,0.9994418
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111125.667.jpg,1,3502,Control,False,953,flat foot,False,1,0.6194324493408203,0.005198099818940636,0.84384865
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114508.885.jpg,1,6096,DM,False,4370,over-arch,False,1,0.5369452834129333,0.5392369205529551,0.99866015
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/800wm.jpg,1,4699,DM,False,4263,over-arch,False,1,0.6456573605537415,0.9760958650382046,0.9533246
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120114.954.jpg,1,7292,DM,False,3459,over-arch,False,1,0.7312995791435242,0.7660138863672549,0.9997267
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0006.jpg,1,5906,DM,False,244,flat foot,False,1,0.6476425528526306,0.697508401096752,0.99974376
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (90).jpg,1,7195,DM,False,3913,over-arch,False,1,0.6541805267333984,0.7665579415302337,0.88973475
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110707.381.jpg,1,8088,DM,False,4547,over-arch,False,1,0.6673465967178345,0.9892107561369128,0.72569156
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112844.349.jpg,1,4901,DM,False,3037,normal,False,1,0.6436012983322144,0.9917506720751245,0.020000692
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110955.563.jpg,1,5334,DM,False,2416,normal,False,1,0.6402729153633118,0.9974166883640168,0.03833056
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110323.304.jpg,1,5350,DM,False,3427,over-arch,False,1,0.6610617637634277,0.9430054501319372,0.93144536
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (54).jpg,1,5900,DM,False,3672,over-arch,False,1,0.8085577487945557,0.957730193535873,0.98148274
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112149.147.jpg,1,7599,DM,False,113,flat foot,False,1,0.6374353170394897,0.9958523054264173,0.9989626
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111358.624.jpg,1,5161,DM,False,271,flat foot,False,1,0.6570119857788086,0.9909516093479729,0.94517195
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110216.166.jpg,1,5987,DM,False,3984,over-arch,False,1,0.6536674499511719,0.8983513034138185,0.9512172
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/treating--pressure-ulcers0004.jpg,1,6385,DM,False,3502,over-arch,False,1,0.5535632371902466,0.9919700488672601,0.9997963
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112839.843.jpg,1,6647,DM,False,3712,over-arch,False,1,0.6186215281486511,0.9174263052214313,0.940043
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111301.282.jpg,1,6249,DM,False,3425,over-arch,False,1,0.5777339935302734,0.9553773789952295,0.9993385
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114214.542.jpg,1,6992,DM,False,4067,over-arch,False,1,0.5869833827018738,0.9802996083723838,0.965332
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112331.531.jpg,1,7304,DM,False,1313,flat foot,False,1,0.6309807896614075,1.0,0.99961567
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110624.525.jpg,1,8403,DM,False,359,flat foot,False,1,0.7084704041481018,0.8067502026816847,0.99914503
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124137.821.jpg,1,7126,DM,False,381,flat foot,False,1,0.7195279598236084,0.975797983504924,0.99959326
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124942.258.jpg,1,7015,DM,False,62,flat foot,False,1,0.616456925868988,0.7782108528927243,0.9996773
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120001.329.jpg,1,5884,DM,False,2373,normal,False,1,0.5888877511024475,1.0,0.12334998
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125137.127.jpg,1,8140,DM,False,604,flat foot,False,1,0.769119918346405,1.0,0.9993024
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (88).jpg,1,4640,DM,False,657,flat foot,False,1,0.6511214375495911,1.0,0.9998973
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111908.970.jpg,1,7929,DM,False,4313,over-arch,False,1,0.6642192006111145,0.9341265254492015,0.969582
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (31).jpg,1,7450,DM,False,1743,flat foot,False,1,0.7216977477073669,0.8759362267709261,0.9998638
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (55).jpg,1,6099,DM,False,733,flat foot,False,1,0.6317781209945679,0.5619295462377191,0.99990517
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124114.785.jpg,1,3508,Control,False,1615,flat foot,False,1,0.7320908904075623,0.004814758081844039,0.9774195
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124407.948.jpg,1,8200,DM,False,264,flat foot,False,1,0.7015337347984314,0.989582151563404,0.99947375
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125821.080.jpg,1,5935,DM,False,415,flat foot,False,1,0.5810264348983765,0.6833263316696746,0.9994671
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114210.363.jpg,1,5980,DM,False,287,flat foot,False,1,0.6462746858596802,0.8053077075211713,0.9992063
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110343.653.jpg,1,8416,DM,False,3652,over-arch,False,1,0.7479274868965149,0.8446222769589139,0.9611718
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120017.499.jpg,1,4526,DM,False,1410,flat foot,False,1,0.7117849588394165,0.8359354434122107,0.2339075
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114324.324.jpg,1,1544,Control,False,416,flat foot,False,1,0.7329520583152771,0.011915566271207045,0.9258263
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113615.148.jpg,1,4285,Control,False,1992,normal,False,1,0.516218900680542,0.03296253389315423,0.083860785
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110352.736.jpg,1,5512,DM,False,1560,flat foot,False,1,0.7173315286636353,0.9981938059814807,0.99930114
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111226.619.jpg,1,5573,DM,False,206,flat foot,False,1,0.6539000272750854,0.9951386530876914,0.9996807
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125641.825.jpg,1,8073,DM,False,3319,over-arch,False,1,0.603948712348938,0.7192250505879907,0.99392027
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112411.556.jpg,1,7111,DM,False,1959,normal,False,1,0.6709915399551392,0.9786808192444769,0.015687702
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (82).jpg,1,7622,DM,False,2030,normal,False,1,0.5502127408981323,0.9917207632053513,0.04551588
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/isc-ulc1.jpg,1,6241,DM,False,3916,over-arch,False,1,0.708657443523407,0.9989675702239251,0.9963528
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113502.898.jpg,1,4693,DM,False,1907,normal,False,1,0.6357080936431885,0.9710355229752052,0.044735115
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0021.jpg,1,2529,Control,False,2742,normal,False,1,0.6987863183021545,0.02141814856395936,0.10652827
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T113953.219.jpg,1,4358,DM,False,3783,over-arch,False,1,0.6462822556495667,0.8106429038629345,0.98561823
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124741.760.jpg,1,7898,DM,False,1981,normal,False,1,0.6490181684494019,0.9893672616672953,0.03241663
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120924.794.jpg,1,7926,DM,False,1079,flat foot,False,1,0.695370078086853,0.9856870633499261,0.9994415
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0015.jpg,1,5775,DM,False,4075,over-arch,False,1,0.7063490152359009,0.9623082676548891,0.93371046
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114143.242.jpg,1,5368,DM,False,1473,flat foot,False,1,0.6365799903869629,0.9771963445578686,0.9989857
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (70).jpg,1,6399,DM,False,344,flat foot,False,1,0.6592971682548523,0.9322276693983353,0.93635553
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112758.229.jpg,1,8496,DM,False,258,flat foot,False,1,0.5964685082435608,0.8707608742780913,0.99991584
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (99).jpg,1,7921,DM,False,1120,flat foot,False,1,0.7072039842605591,0.9968088224573005,0.9476017
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (51).jpg,1,5614,DM,False,167,flat foot,False,1,0.6236416697502136,0.9892714508054419,0.99983054
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (30).jpg,1,7073,DM,False,2841,normal,False,1,0.5080591440200806,1.0,0.058774374
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0028.jpg,1,8455,DM,False,608,flat foot,False,1,0.7514733076095581,0.9937694704049844,0.9973747
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110312.253.jpg,1,4534,DM,False,895,flat foot,False,1,0.5852898359298706,0.8670061391108733,0.9998133
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0011.jpg,1,6548,DM,False,1929,normal,False,1,0.7186290621757507,0.8258625995417267,0.19940418
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (83).jpg,1,6467,DM,False,2093,normal,False,1,0.5646803379058838,0.9601705138293708,0.15517645
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (39).jpg,1,4918,DM,False,3946,over-arch,False,1,0.7113563418388367,0.8856033039678605,0.9602988
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114220.963.jpg,1,7167,DM,False,1017,flat foot,False,1,0.5734935998916626,0.9816090606663016,0.96114033
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (35).jpg,1,8296,DM,False,4119,over-arch,False,1,0.7905015349388123,0.7395325598535435,0.99829024
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124754.355.jpg,1,5335,DM,False,63,flat foot,False,1,0.6994261741638184,0.9827725024166568,0.99983644
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110348.692.jpg,1,6226,DM,False,1259,flat foot,False,1,0.6367291212081909,0.967996661757288,0.99951774
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T114051.844.jpg,1,4665,DM,False,877,flat foot,False,1,0.5963747501373291,0.9551285338349306,0.0350091
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (89).jpg,1,6638,DM,False,4118,over-arch,False,1,0.5659741759300232,1.0,0.93034333
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T112852.668.jpg,1,8041,DM,False,321,flat foot,False,1,0.7112477421760559,0.6746252501727079,0.9997814
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (48).jpg,1,6435,DM,False,2998,normal,False,1,0.7079306244850159,0.98074600523554,0.12325657
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110109.412.jpg,1,7223,DM,False,3192,over-arch,False,1,0.6754034757614136,0.9510468266058373,0.9987617
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (4).jpg,1,7753,DM,False,254,flat foot,False,1,0.6722545027732849,0.7870118769852354,0.96195817
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T110212.237.jpg,1,5005,DM,False,543,flat foot,False,1,0.5906726717948914,1.0,0.9426563
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-pressure-ulcer-0027.jpg,1,5705,DM,False,3009,normal,False,1,0.5934687852859497,0.91249454457618,0.07437804
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123425.443.jpg,1,8391,DM,False,453,flat foot,False,1,0.772511899471283,0.9782578974221428,0.9994955
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111457.437.jpg,1,6580,DM,False,4267,over-arch,False,1,0.7079646587371826,0.9139110440320248,0.91624767
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T111452.885.jpg,1,3954,Control,False,1008,flat foot,False,1,0.6605810523033142,0.014372822240223057,0.9994779
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T124440.526.jpg,1,6724,DM,False,2626,normal,False,1,0.6337247490882874,0.9971554017191153,0.024316732
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120441.892.jpg,1,4569,DM,False,2239,normal,False,1,0.616456925868988,0.8738330780873287,0.063189626
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125941.547.jpg,1,4909,DM,False,1884,normal,False,1,0.706329882144928,0.9086587166531122,0.14357935
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/sloughy-presure-ulcer-0036.jpg,1,6556,DM,False,3624,over-arch,False,1,0.662086546421051,0.986506511033894,0.77301276
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T123130.705.jpg,1,4709,DM,False,1866,normal,False,1,0.6190302968025208,0.8460240015495568,0.022836467
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0017.jpg,1,7553,DM,False,14,flat foot,False,1,0.4721366763114929,0.6456538681291218,0.9997784
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115022.914.jpg,1,1941,Control,False,1117,flat foot,False,1,0.7032256722450256,0.01709052653993264,0.9992539
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/superficial-pressure-ulcer0012.jpg,1,6160,DM,False,1630,flat foot,False,1,0.6885474324226379,0.9958256975048303,0.99972785
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115933.746.jpg,1,7207,DM,False,1246,flat foot,False,1,0.7317109704017639,0.9968847352024922,0.9998537
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T125706.178.jpg,1,6499,DM,False,4270,over-arch,False,1,0.7014670968055725,0.9984491181400915,0.9988476
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115110.963.jpg,1,7444,DM,False,1163,flat foot,False,1,0.7619529366493225,0.9823689423161259,0.9992661
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (6).jpg,1,7345,DM,False,3918,over-arch,False,1,0.7263844013214111,0.939332380014441,0.93782604
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/septic-leg-wound-and-scab-on-shin-of-middle-aged-man-ANNXAE.jpg,1,6296,DM,False,144,flat foot,False,1,0.5755820870399475,0.9989675702239251,0.87331086
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (8).jpg,1,8407,DM,False,4604,over-arch,False,1,0.61153244972229,0.8622256804282752,0.9925977
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T121038.547.jpg,1,8137,DM,False,4595,over-arch,False,1,0.6681525707244873,0.9571870373858606,0.9991926
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images (81).jpg,1,325,Control,False,3620,over-arch,False,1,0.5801699161529541,0.008540917433505277,0.9715363
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T115115.277.jpg,1,6064,DM,False,3915,over-arch,False,1,0.7255567312240601,0.8728020859910294,0.94979453
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120724.544.jpg,1,5140,DM,False,2878,normal,False,1,0.5371310114860535,0.9896217758314018,0.03613072
+train,/content/RGB_P/Transfer-Learning images/Wound Images2/images - 2019-12-16T120425.289.jpg,1,6877,DM,False,3822,over-arch,False,1,0.6393119692802429,0.8330879975468576,0.9922218
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T114035.025.jpg,1,5760,DM,False,1040,flat foot,False,1,0.5944277048110962,0.7245238190500431,0.9997363
+train,/content/RGB_P/Transfer-Learning images/samples/8.jpg,1,6128,DM,False,3510,over-arch,False,1,0.5938385725021362,0.9901387343029868,0.9987081
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T123117.106.jpg,1,4771,DM,False,694,flat foot,False,1,0.6217334270477295,0.9907303086289929,0.9987939
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T114755.548.jpg,1,6801,DM,False,848,flat foot,False,1,0.6221022009849548,0.924064054498409,0.9997945
+train,/content/RGB_P/Transfer-Learning images/samples/images (9).jpg,1,8337,DM,False,82,flat foot,False,1,0.7251506447792053,0.9971554017191153,0.9990159
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T112309.415.jpg,1,4768,DM,False,4585,over-arch,False,1,0.5375176072120667,0.9739447667133581,0.9974871
+train,/content/RGB_P/Transfer-Learning images/samples/6.jpg,1,2743,Control,False,3811,over-arch,False,1,0.5586628913879395,0.03365821804868288,0.9431044
+train,/content/RGB_P/Transfer-Learning images/samples/1.jpg,1,4845,DM,False,3692,over-arch,False,1,0.5623769164085388,0.7602886638644506,0.9140723
+train,/content/RGB_P/Transfer-Learning images/samples/images (7).jpg,1,6142,DM,False,2411,normal,False,1,0.769119918346405,0.9113263980889208,0.048941962
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T125107.127.jpg,1,5544,DM,False,316,flat foot,False,1,0.611582338809967,0.9681026484488836,0.9997093
+train,/content/RGB_P/Transfer-Learning images/samples/2.jpg,1,7247,DM,False,1496,flat foot,False,1,0.6155381798744202,0.6247757648003122,0.99988484
+train,/content/RGB_P/Transfer-Learning images/samples/images.jpg,1,8222,DM,False,3365,over-arch,False,1,0.5216736793518066,1.0,0.88737726
+train,/content/RGB_P/Transfer-Learning images/samples/serious-open-wound-on-skin-260nw-216398719.jpg,1,6838,DM,False,80,flat foot,False,1,0.7295993566513062,0.9526849296071926,0.99978423
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T113445.650.jpg,1,4685,DM,False,2236,normal,False,1,0.7581371068954468,0.9881663253778455,0.11623822
+train,/content/RGB_P/Transfer-Learning images/samples/calluses.jpg,1,7012,DM,False,951,flat foot,False,1,0.7068301439285278,0.9927370406289096,0.58105755
+train,/content/RGB_P/Transfer-Learning images/samples/7.jpg,1,7855,DM,False,2827,normal,False,1,0.5872951745986938,0.9916986363665441,0.2156885
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T112526.960.jpg,1,7089,DM,False,3285,over-arch,False,1,0.414303183555603,1.0,0.99964607
+train,/content/RGB_P/Transfer-Learning images/samples/images (4).jpg,1,7630,DM,False,123,flat foot,False,1,0.7112477421760559,0.9937694704049844,0.99983096
+train,/content/RGB_P/Transfer-Learning images/samples/wound_exudate1.jpg,1,7331,DM,False,2605,normal,False,1,0.5977033972740173,0.9599562628798491,0.048236657
+train,/content/RGB_P/Transfer-Learning images/samples/images - 2019-12-16T112531.202.jpg,1,4802,DM,False,213,flat foot,False,1,0.4349586069583893,0.917558493519686,0.9991388
+train,/content/RGB_P/Transfer-Learning images/samples/images (6).jpg,1,5274,DM,False,127,flat foot,False,1,0.6605810523033142,0.9540209770126877,0.864302
+train,/content/RGB_P/Transfer-Learning images/samples/images (81).jpg,1,4449,DM,False,1180,flat foot,False,1,0.6395701766014099,1.0,0.99858934
+train,/content/RGB_P/Transfer-Learning images/internetSet/B9780323072427000279_f027-008-9780323072427.jpg,1,4572,DM,False,156,flat foot,False,1,0.6218589544296265,0.9932630193041433,0.93062556
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (22).jpg,1,6843,DM,False,4114,over-arch,False,1,0.7062903642654419,0.8150805187222855,0.9993934
+train,/content/RGB_P/Transfer-Learning images/internetSet/4-Figure3-used.png,1,4673,DM,False,2194,normal,False,1,0.6264076232910156,0.9925969489644152,0.089582115
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (13).jpg,1,6642,DM,False,650,flat foot,False,1,0.7266154289245605,0.9444796821576534,0.9998886
+train,/content/RGB_P/Transfer-Learning images/internetSet/diabetic foot ulcer..jpg,1,6491,DM,False,566,flat foot,False,1,0.5630834102630615,0.7781699925178875,0.99980557
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (19).jpg,1,7867,DM,False,1020,flat foot,False,1,0.6252699494361877,0.9488747937859847,0.9998105
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (32).jpg,1,3326,Control,False,1565,flat foot,False,1,0.741850733757019,0.002268575402090666,0.9984768
+train,/content/RGB_P/Transfer-Learning images/internetSet/pre-ulceration (1).jpg,1,5135,DM,False,3737,over-arch,False,1,0.7117817401885986,0.9451707992122047,0.92097557
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (21).jpg,1,6295,DM,False,247,flat foot,False,1,0.690706193447113,0.8867152858509448,0.9996071
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (33).jpg,1,4065,Control,False,4165,over-arch,False,1,0.6780707836151123,0.20137433211973904,0.99775213
+train,/content/RGB_P/Transfer-Learning images/internetSet/7a5e12fa15.jpg,1,8139,DM,False,731,flat foot,False,1,0.6102614402770996,0.6195924302456657,0.9998903
+train,/content/RGB_P/Transfer-Learning images/internetSet/diabetic-ulcer-diseases-feet-CT3FE6.jpg,1,8008,DM,False,3486,over-arch,False,1,0.557723879814148,0.9891239654787082,0.9648756
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (10).jpg,1,8351,DM,False,478,flat foot,False,1,0.6941820383071899,0.9791387855353156,0.99963385
+train,/content/RGB_P/Transfer-Learning images/internetSet/download.jpg,1,4369,DM,False,1190,flat foot,False,1,0.7616236209869385,0.993587708768756,0.9997415
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (28).jpg,1,7337,DM,False,765,flat foot,False,1,0.7488253116607666,0.9433292003106257,0.99913216
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (11).jpg,1,6986,DM,False,2418,normal,False,1,0.695253849029541,0.8941834785168744,0.05653405
+train,/content/RGB_P/Transfer-Learning images/internetSet/ulcers.jpg,1,7054,DM,False,2149,normal,False,1,0.7647219896316528,0.9884652934290339,0.36699927
+train,/content/RGB_P/Transfer-Learning images/internetSet/foot-ulcer-pic (1).png,1,6809,DM,False,4000,over-arch,False,1,0.7196930050849915,0.9640218733451306,0.9983674
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (17).jpg,1,6964,DM,False,4171,over-arch,False,1,0.6691295504570007,0.7362177804547174,0.9994252
+train,/content/RGB_P/Transfer-Learning images/internetSet/Diabetic foot ulcer.jpg,1,4604,DM,False,3516,over-arch,False,1,0.6817736029624939,0.9676753681782669,0.9200633
+train,/content/RGB_P/Transfer-Learning images/internetSet/feat_footulcer_necro_1110_127573.jpg,1,4051,Control,False,1892,normal,False,1,0.6458549499511719,0.0697458778397924,0.13167483
+train,/content/RGB_P/Transfer-Learning images/internetSet/Seed-Corn-under-Ball-of-Foot.jpg,1,5069,DM,False,3655,over-arch,False,1,0.5882783532142639,0.9598876022996226,0.5777409
+train,/content/RGB_P/Transfer-Learning images/internetSet/Initial-presentation-of-the-diabetic-ulcer-at-the-left-lateral-foot.png,1,6450,DM,False,442,flat foot,False,1,0.6224731802940369,0.9349845265298558,0.9997334
+train,/content/RGB_P/Transfer-Learning images/internetSet/Class-1-Foot-at-risk-a-and-b-Foot-with-callus-but-no-ulcer-b-a (1).png,1,4370,DM,False,1018,flat foot,False,1,0.6239023804664612,0.9953338533425838,0.99917555
+train,/content/RGB_P/Transfer-Learning images/internetSet/hallux-IPJ-ulcer-post1A.jpg,1,5735,DM,False,689,flat foot,False,1,0.6045995354652405,0.9535449638849218,0.9997853
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (34).jpg,1,4406,DM,False,2064,normal,False,1,0.5911379456520081,1.0,0.17834347
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (9).jpg,1,6627,DM,False,506,flat foot,False,1,0.730141818523407,0.9976686253007512,0.99977267
+train,/content/RGB_P/Transfer-Learning images/internetSet/m5_05.jpg,1,6426,DM,False,3780,over-arch,False,1,0.7392136454582214,0.8080667000667908,0.10971076
+train,/content/RGB_P/Transfer-Learning images/internetSet/A-diabetic-foot-ulcer-presents-significant-morbidity-and-mortality-to-patients-Proper_Q320.jpg,1,6170,DM,False,4030,over-arch,False,1,0.7687067985534668,0.971211347931255,0.75976443
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (23).jpg,1,4270,Control,False,866,flat foot,False,1,0.6781726479530334,0.07155899865630798,0.9685691
+train,/content/RGB_P/Transfer-Learning images/internetSet/foot-doctor-for-corn-callus-treatment.png,1,6412,DM,False,530,flat foot,False,1,0.7495355010032654,0.9662455684791902,0.99984264
+train,/content/RGB_P/Transfer-Learning images/internetSet/maxresdefault.jpg,1,2513,Control,False,1255,flat foot,False,1,0.5956487655639648,0.011653215395334138,0.9580959
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (7).jpg,1,6668,DM,False,2821,normal,False,1,0.6483834981918335,0.8555278601150896,0.16700386
+train,/content/RGB_P/Transfer-Learning images/internetSet/download (1).jpg,1,7316,DM,False,1648,flat foot,False,1,0.6427234411239624,0.9470892670003866,0.99971694
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (12).jpg,1,8033,DM,False,751,flat foot,False,1,0.7274042963981628,0.9922185885450759,0.999351
+train,/content/RGB_P/Transfer-Learning images/internetSet/7e88c7_71fd61f6ac3d48cab475dfa44ea94017.jpg,1,4227,Control,False,3793,over-arch,False,1,0.7622213959693909,0.04469089004050011,0.9772012
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (15).jpg,1,5326,DM,False,3622,over-arch,False,1,0.64018714427948,1.0,0.9352847
+train,/content/RGB_P/Transfer-Learning images/internetSet/46683AFD00000578-5088439-image-a-7_1510827626291.jpg,1,8442,DM,False,863,flat foot,False,1,0.6147620677947998,0.9968847352024922,0.8098348
+train,/content/RGB_P/Transfer-Learning images/internetSet/a-Plantar-hallux-subungual-ulcer-b-ulcer-healing-after-tenotomy-of-the-flexor.png,1,264,Control,False,280,flat foot,False,1,0.618257999420166,0.09945812965549966,0.99955225
+train,/content/RGB_P/Transfer-Learning images/internetSet/3809525079_71eabf91b5_z.jpg,1,3577,Control,False,3421,over-arch,False,1,0.6888331770896912,0.010869052967426764,0.91626096
+train,/content/RGB_P/Transfer-Learning images/internetSet/ulcers (1).jpg,1,7980,DM,False,4308,over-arch,False,1,0.7647219896316528,0.8808526218597231,0.9996057
+train,/content/RGB_P/Transfer-Learning images/internetSet/how-to-heal-a-diabetic-foot-ulcer-700393-2.jpg,1,6667,DM,False,3863,over-arch,False,1,0.6524346470832825,0.9427134396103983,0.999683
+train,/content/RGB_P/Transfer-Learning images/internetSet/foot-ulcer.jpg,1,6120,DM,False,714,flat foot,False,1,0.6471014618873596,0.9952163815833472,0.9998197
+train,/content/RGB_P/Transfer-Learning images/internetSet/diabetic-foot-ulcer (1).jpg,1,7272,DM,False,3698,over-arch,False,1,0.7416900396347046,0.8951396864758925,0.9990749
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (18).jpg,1,6599,DM,False,162,flat foot,False,1,0.6226204037666321,1.0,0.9997818
+train,/content/RGB_P/Transfer-Learning images/internetSet/feat_footulcer_cellul_1110_127752_127753.jpg,1,6090,DM,False,1217,flat foot,False,1,0.6362203359603882,1.0,0.9997844
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (14).jpg,1,4946,DM,False,3068,normal,False,1,0.7151246666908264,0.9745078563133818,0.013685655
+train,/content/RGB_P/Transfer-Learning images/internetSet/images.jpg,1,7164,DM,False,625,flat foot,False,1,0.6311490535736084,0.9968847352024922,0.99977
+train,/content/RGB_P/Transfer-Learning images/internetSet/diabetic-foot-ulcer_opt.jpg,1,5058,DM,False,2037,normal,False,1,0.5681731700897217,0.5909903069320843,0.025798023
+train,/content/RGB_P/Transfer-Learning images/internetSet/lesioni-piede-diabetico_01.jpg,1,5401,DM,False,3635,over-arch,False,1,0.7286080121994019,0.9587592699369284,0.99930584
+train,/content/RGB_P/Transfer-Learning images/internetSet/e8511b3d622ba7d21d0b7749ff2111b9.jpg,1,6537,DM,False,234,flat foot,False,1,0.5853477716445923,1.0,0.93639344
+train,/content/RGB_P/Transfer-Learning images/internetSet/complex_wound_management.jpg,1,7214,DM,False,3711,over-arch,False,1,0.6358155012130737,0.9543678754309189,0.9995301
+train,/content/RGB_P/Transfer-Learning images/internetSet/image1.jpeg,1,4746,DM,False,2169,normal,False,1,0.6501752734184265,0.8982203167547991,0.060536414
+train,/content/RGB_P/Transfer-Learning images/internetSet/fig1.jpg,1,6984,DM,False,1376,flat foot,False,1,0.6987637877464294,0.9343842389974443,0.99861586
+train,/content/RGB_P/Transfer-Learning images/internetSet/GettyImages-840167308-1-650x450.jpg,1,6529,DM,False,4211,over-arch,False,1,0.6312932372093201,0.8310443523953107,0.99869096
+train,/content/RGB_P/Transfer-Learning images/internetSet/diabetic-foot-ulcer.jpg,1,6629,DM,False,2313,normal,False,1,0.6784561276435852,0.9089278321543005,0.2110229
+train,/content/RGB_P/Transfer-Learning images/internetSet/Class-1-Foot-at-risk-a-and-b-Foot-with-callus-but-no-ulcer-b-a (2).png,1,7799,DM,False,4176,over-arch,False,1,0.6239023804664612,1.0,0.9150272
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (16).jpg,1,6007,DM,False,4436,over-arch,False,1,0.6152079701423645,0.9265842625307626,0.97169226
+train,/content/RGB_P/Transfer-Learning images/internetSet/DiabeticPicture4.jpg,1,5019,DM,False,349,flat foot,False,1,0.6100090146064758,0.9992262357575556,0.92398393
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (24).jpg,1,5003,DM,False,3713,over-arch,False,1,0.670365035533905,1.0,0.9662436
+train,/content/RGB_P/Transfer-Learning images/internetSet/RTEmagicC_017_FP0216_F1.jpg.jpg,1,6359,DM,False,3500,over-arch,False,1,0.7127950191497803,0.9999613910954205,0.9996732
+train,/content/RGB_P/Transfer-Learning images/internetSet/222748d9f97a36c08da91dc46f6f5200.jpg,1,5986,DM,False,4609,over-arch,False,1,0.6378833055496216,0.757087424456846,0.9915498
+train,/content/RGB_P/Transfer-Learning images/internetSet/foot-ulcer-pic.png,1,4414,DM,False,2648,normal,False,1,0.6348885893821716,0.9984491181400915,0.0634881
+train,/content/RGB_P/Transfer-Learning images/internetSet/diabetic_foot_ulcer.jpg,1,7568,DM,False,1991,normal,False,1,0.7321960926055908,1.0,0.07112916
+train,/content/RGB_P/Transfer-Learning images/internetSet/C0365633-Diabetic_Heel_Ulcer.jpg,1,7064,DM,False,1206,flat foot,False,1,0.6993514895439148,0.8549000631244162,0.99989045
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (30).jpg,1,4603,DM,False,679,flat foot,False,1,0.6452470421791077,0.9968847352024922,0.999002
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (35).jpg,1,6846,DM,False,3723,over-arch,False,1,0.7157269716262817,0.7527820377166168,0.9535042
+train,/content/RGB_P/Transfer-Learning images/internetSet/wc_121102_diabetic_foot_ulcer_wound_200x151.jpg,1,5951,DM,False,3270,over-arch,False,1,0.7484186291694641,0.9835138839120778,0.9627253
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (4).jpg,1,7042,DM,False,1586,flat foot,False,1,0.6531006097793579,0.23640937737120646,0.8084051
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (6).jpg,1,2239,Control,False,2183,normal,False,1,0.7880123853683472,0.015966417356481945,0.031662814
+train,/content/RGB_P/Transfer-Learning images/internetSet/images (8).jpg,1,7925,DM,False,1428,flat foot,False,1,0.6633536219596863,1.0,0.99852705
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (22).jpg,1,4927,DM,False,13,flat foot,False,1,0.6538345217704773,0.8683448178648909,0.90948844
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (13).jpg,1,6476,DM,False,1555,flat foot,False,1,0.5974053740501404,0.980801960114112,0.9938243
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (74).jpg,1,3095,Control,False,3777,over-arch,False,1,0.7430773973464966,0.05497992916199136,0.9454536
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (38).jpg,1,7462,DM,False,899,flat foot,False,1,0.5876486897468567,0.9472567995385381,0.92953116
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (76).jpg,1,5880,DM,False,3734,over-arch,False,1,0.6090503931045532,0.9685376797342762,0.99005413
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (15).jpg,1,6272,DM,False,772,flat foot,False,1,0.7639482021331787,1.0,0.9998691
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (19).jpg,1,6944,DM,False,1129,flat foot,False,1,0.7153072953224182,0.9891239654787082,0.95062894
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (32).jpg,1,6490,DM,False,2555,normal,False,1,0.6374353170394897,0.8315357945319685,0.008389402
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (21).jpg,1,5092,DM,False,1046,flat foot,False,1,0.6976928114891052,0.9697623014460313,0.999834
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (33).jpg,1,6818,DM,False,1432,flat foot,False,1,0.6149506568908691,1.0,0.94527537
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (53).jpg,1,7202,DM,False,1211,flat foot,False,1,0.7025180459022522,0.8808933481027011,0.73258567
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (12).jpg,1,8440,DM,False,3420,over-arch,False,1,0.5613120198249817,1.0,0.87976253
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (10).jpg,1,7956,DM,False,3816,over-arch,False,1,0.6442173719406128,0.981612032526392,0.93556273
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (26).jpg,1,2294,Control,False,1357,flat foot,False,1,0.6472378969192505,0.014173920280670944,0.99972546
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (77).jpg,1,8385,DM,False,573,flat foot,False,1,0.6983041763305664,0.8672763920274952,0.99964833
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (37).jpg,1,5981,DM,False,433,flat foot,False,1,0.6688476800918579,0.8919909176385613,0.99982077
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (28).jpg,1,7258,DM,False,1346,flat foot,False,1,0.6995651721954346,0.9993812561802706,0.9995128
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (11).jpg,1,7756,DM,False,4108,over-arch,False,1,0.4951355457305908,1.0,0.95052
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (69).jpg,1,8045,DM,False,1111,flat foot,False,1,0.6592971682548523,1.0,0.999712
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (84).jpg,1,5907,DM,False,2888,normal,False,1,0.6807342171669006,0.9739980229319315,0.12624773
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (17).jpg,1,5037,DM,False,4243,over-arch,False,1,0.5067858099937439,0.9953338533425837,0.9144257
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (72).jpg,1,8048,DM,False,4058,over-arch,False,1,0.6609449982643127,0.9968847352024922,0.9190382
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (75).jpg,1,6859,DM,False,54,flat foot,False,1,0.680712878704071,0.9650592392969726,0.99941707
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (49).jpg,1,8277,DM,False,3180,over-arch,False,1,0.7210248112678528,0.8223375567185667,0.964901
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (86).jpg,1,7033,DM,False,3568,over-arch,False,1,0.4877912700176239,0.8505222499807904,0.9962702
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (5).jpg,1,320,Control,False,3050,normal,False,1,0.6264697313308716,0.037228486293304705,0.04993844
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (71).jpg,1,5742,DM,False,1251,flat foot,False,1,0.6593232750892639,0.9198939621704787,0.9992373
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (7).jpg,1,7040,DM,False,4354,over-arch,False,1,0.7061907052993774,0.9312185827657121,0.80539614
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (27).jpg,1,5273,DM,False,1032,flat foot,False,1,0.653032124042511,0.9833537990458614,0.9815875
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (34).jpg,1,7522,DM,False,94,flat foot,False,1,0.48061493039131165,0.9832884358534034,0.99977076
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (9).jpg,1,7488,DM,False,2350,normal,False,1,0.6268875598907471,0.9906542056074766,0.06203307
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (17).jpg,1,6827,DM,False,3765,over-arch,False,1,0.6825106143951416,0.46629336329247484,0.9518663
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (25).jpg,1,5569,DM,False,4286,over-arch,False,1,0.6125584244728088,0.964889507796048,0.98429316
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (19).jpg,1,6772,DM,False,4027,over-arch,False,1,0.5801699161529541,0.5537140678796799,0.942898
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (23).jpg,1,7817,DM,False,4399,over-arch,False,1,0.6484746336936951,0.9856228121153172,0.9936462
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (11).jpg,1,4618,DM,False,1843,normal,False,1,0.6286205053329468,0.9614040965836608,0.06824724
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (29).jpg,1,4742,DM,False,4613,over-arch,False,1,0.6947416663169861,0.9324610353048834,0.9488171
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (10).jpg,1,5522,DM,False,1584,flat foot,False,1,0.5164015889167786,0.9906542056074766,0.999864
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (7).jpg,1,6625,DM,False,3861,over-arch,False,1,0.7079306244850159,0.9519171434113614,0.7520328
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (18).jpg,1,6115,DM,False,2803,normal,False,1,0.47716763615608215,0.9968847352024922,0.039576475
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (12).jpg,1,8413,DM,False,4511,over-arch,False,1,0.6773749589920044,0.8991879969043807,0.99933916
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (36).jpg,1,5966,DM,False,3275,over-arch,False,1,0.6577008962631226,0.9822605477064696,0.9986481
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (20).jpg,1,7686,DM,False,3560,over-arch,False,1,0.8085577487945557,0.9095648266252014,0.9993633
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (15).jpg,1,7754,DM,False,1173,flat foot,False,1,0.7671617269515991,0.9193893697614571,0.99932766
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (8).jpg,1,7407,DM,False,1934,normal,False,1,0.584636926651001,0.9984491181400916,0.06326174
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (5).jpg,1,4750,DM,False,281,flat foot,False,1,0.610319972038269,0.974397559108507,0.9991795
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (43).jpg,1,6952,DM,False,4535,over-arch,False,1,0.5573194026947021,0.9736505324914794,0.9464492
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (4).jpg,1,962,Control,False,3000,normal,False,1,0.6221746802330017,0.057994457377528584,0.018630859
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (2).jpg,1,6415,DM,False,3056,normal,False,1,0.6222907900810242,0.9609454665080857,0.07356231
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (57).jpg,1,6344,DM,False,1022,flat foot,False,1,0.6385418176651001,0.9773122319921966,0.99983007
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (68).jpg,1,4702,DM,False,4275,over-arch,False,1,0.717879056930542,0.7832955542900678,0.8812291
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (50).jpg,1,6366,DM,False,4617,over-arch,False,1,0.6272613406181335,0.9799816343520479,0.99879265
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (63).jpg,1,8368,DM,False,1337,flat foot,False,1,0.6755011677742004,0.920523519048848,0.9998207
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (80).jpg,1,6701,DM,False,2852,normal,False,1,0.705909252166748,1.0,0.023783501
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (47).jpg,1,5879,DM,False,3313,over-arch,False,1,0.5411784052848816,0.9893672616672953,0.9843295
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (18).jpg,1,4783,DM,False,2729,normal,False,1,0.5447923541069031,0.9038763714510875,0.07194057
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (58).jpg,1,5777,DM,False,4160,over-arch,False,1,0.7410783767700195,0.8881620962308819,0.99886894
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (14).jpg,1,6566,DM,False,4124,over-arch,False,1,0.6087443828582764,0.7259267437771736,0.9533235
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (59).jpg,1,6428,DM,False,3774,over-arch,False,1,0.5262115001678467,0.9979351404478501,0.9904321
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images.jpg,1,6710,DM,False,515,flat foot,False,1,0.606262743473053,0.9414600965046663,0.9997086
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (13).jpg,1,5607,DM,False,3985,over-arch,False,1,0.6703335642814636,0.7437397029068586,0.97678417
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (62).jpg,1,7056,DM,False,1765,flat foot,False,1,0.7011966109275818,0.9325808194119829,0.998888
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (3).jpg,1,6858,DM,False,21,flat foot,False,1,0.5186724066734314,1.0,0.8807959
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (56).jpg,1,4436,DM,False,2471,normal,False,1,0.6524198055267334,0.994094222328624,0.036886267
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (20).jpg,1,6159,DM,False,3364,over-arch,False,1,0.7348854541778564,0.9907903435875257,0.9193312
+train,/content/RGB_P/Transfer-Learning images/Wound Images/download (9).jpg,1,7723,DM,False,2046,normal,False,1,0.603948712348938,0.7734380174994324,0.088979326
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (64).jpg,1,6526,DM,False,3818,over-arch,False,1,0.673923134803772,0.9901373277124628,0.99531823
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (16).jpg,1,6967,DM,False,1219,flat foot,False,1,0.6186180710792542,0.992218588545076,0.965004
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (79).jpg,1,4714,DM,False,1647,flat foot,False,1,0.549511730670929,0.9968847352024922,0.99987507
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (40).jpg,1,8495,DM,False,4574,over-arch,False,1,0.6347281336784363,0.6188652604926694,0.9990025
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (24).jpg,1,6527,DM,False,498,flat foot,False,1,0.6838076114654541,0.9761324382348197,0.9967406
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (54).jpg,1,2011,Control,False,847,flat foot,False,1,0.5692113041877747,0.19062572272119335,0.9973091
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (31).jpg,1,397,Control,False,1635,flat foot,False,1,0.7228990793228149,0.09624272145046936,0.9997018
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (55).jpg,1,5508,DM,False,2614,normal,False,1,0.7178793549537659,0.9965756305201683,0.12919131
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (51).jpg,1,5307,DM,False,3098,normal,False,1,0.7082720398902893,0.5777444392348332,0.040887427
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (30).jpg,1,5586,DM,False,3875,over-arch,False,1,0.7656953930854797,0.6598386490901387,0.99917704
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (73).jpg,1,8241,DM,False,3804,over-arch,False,1,0.6181511878967285,0.993150726585255,0.9651095
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (61).jpg,1,2686,Control,False,1334,flat foot,False,1,0.6181511878967285,0.017751705538286394,0.9997974
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (39).jpg,1,8121,DM,False,2921,normal,False,1,0.7655988931655884,0.6209422245394218,0.22311226
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (1).jpg,1,7178,DM,False,1471,flat foot,False,1,0.5909329652786255,0.7560415823125362,0.9996732
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (4).jpg,1,6001,DM,False,3819,over-arch,False,1,0.5695888996124268,0.9424732040491037,0.12537679
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (87).jpg,1,3785,Control,False,246,flat foot,False,1,0.7119622230529785,0.05466694480107441,0.9995294
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (6).jpg,1,6163,DM,False,4596,over-arch,False,1,0.6268875598907471,0.9203672156496929,0.95010734
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (8).jpg,1,8027,DM,False,3186,over-arch,False,1,0.7341365218162537,0.9950080330239774,0.9923711
+train,/content/RGB_P/Transfer-Learning images/Wound Images/images (81).jpg,1,2187,Control,False,514,flat foot,False,1,0.6899468302726746,0.09325373594380118,0.99860233
