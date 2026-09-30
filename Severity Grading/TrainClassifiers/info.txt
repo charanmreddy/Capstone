@@ -1,0 +1,9 @@
+ip : 
+STANDUP_RGB_P/ — preprocessed RGB images
+STANDUP_Thermal_P/ — preprocessed thermal .npy files
+standup_rgb_metadata.csv — filename, path, label, patient_id, timepoint
+standup_thermal_features.csv — same metadata + 9 extracted thermal features
+
+op:
+best_rgb_severity_coral.pth — trained RGB ordinal model
+best_thermal_severity_ordinal.joblib — trained Thermal ordinal classifier cascade
