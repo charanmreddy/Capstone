@@ -1,0 +1,7 @@
+Add all these trained model files in this folder :
+1.   best_efficientnet_b3.pth
+2.   best_rf_thermal.joblib  
+3.   best_rgb_severity_coral.pth  
+4.   best_thermal_severity_ordinal.joblib  
+5.   best_xgb_plantar.joblib  
+6.   plantar_xgb  
